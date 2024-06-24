@@ -1,50 +1,53 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"><b>𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙈𝘿 ✅𝗩𝗫5</b>
+src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center"><b>FREDI_ADAMS_MD</b>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Black+Panther+MD+Created+By+Ibrahim..&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+<p align="center">  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Fredi+Adams+MD+Created+By+Fredie..&heart;++;Self-taught+Green-Created+By,;Fredi+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
 </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/ec8ce4af1d8fa3271e26a.jpg" alt="01" border="0" /></a>     
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/a8b74780a8d18240b1d82.jpg" alt="01" border="0" /></a>     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 ![Aaaaand many more](res/readme/context.gif)
 
- ## Join my channel for updates and get free cc
+ ## Join my channel
 
 
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+<a href="https://whatsapp.com/channel/0029VafeCKHKmCPMtW3bFA08" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  **`DEPLOYMENT METHODS`**-
 
-
-[![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD/fork)
-
  <h1 align="center">  SESSION SITE 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
+  ## 1 *`⨷TAP HERE YOU OPEN SESSIOS APP`*
 
-  ***[`TAP HERE YOU OPEN SESSION SITE`](https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main)***
-
-
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/IBRAHIM-TECH-AI/DEPLOYMENT-SITE/tree/main)
-
-<br>
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/kqO_n5?referralCode=AqkNn4)
-
-<br>
-
-<p align=""><a href="https://repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
+  <h1 align="center"> 
+ 
+  **[`ADAMS APP`](https://fredietech-9a463a9f46ea.herokuapp.com/)**
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- ## How To Deploy Black Panther
+
+<h1 align="center">  DEPLOY TO HEROKU NOW
+
+
+
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_ADAMS_MD/tree/patch-1)
+
+<br>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+ ## How To Deploy Fredi Adams 
  
 𝙵𝙸𝚁𝚂𝚃 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾.
 
