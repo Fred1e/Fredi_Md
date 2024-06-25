@@ -26,8 +26,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-  ## 1 *`⨷TAP HERE YOU OPEN SESSIOS APP`*
-
   <h1 align="center"> 
 
  **CLICK HERE 👇 TO PAIR**
