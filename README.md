@@ -20,7 +20,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- **`DEPLOYMENT METHODS`**-
+## DEPLOYMENT METHODS
  
 **CLICK HERE 👇 TO FORK**
 
@@ -32,15 +32,22 @@
  
   <a href="https://fredietech-9a463a9f46ea.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="FREDI ADAMS APP" width="150"></a>
 
+**CLICK HERE 👇 TO SCAN QR**
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a href="https://fredietech-9a463a9f46ea.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
+**CLICK HERE 👇 TO WATCH TUTORIAL**
 
-<h1 align="center">  DEPLOY TO HEROKU NOW
+<a href="https://www.youtube.com/@freeonlinetvT1"><img src="https://img.shields.io/badge/WATCH%20FULL%20TUTORIAL-red" alt="FULL TUTORIAL HERE" width="150"></a>
 
+## 4. DEPLOY NOW ON HEROKU 
+<h1 align="center">
 
+***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_ADAMS_MD/tree/patch-1)***
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_ADAMS_MD/tree/patch-1)
+## CONTACT DEVELOPER
+
+⏣REACH FREDIETECH DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.link/1eyv9w)
 
 <br>
 
