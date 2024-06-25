@@ -24,7 +24,7 @@
  
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/Fred1e/FREDI_ADAMS_MD-/fork"><img src="https://img.shields.io/badge/Fork%20Beltahmd%20Repo-yellow" alt="FREDI ADAMS-MD REPO" width="150"></a>
+<a href="https://github.com/Fred1e/FREDI_ADAMS_MD-/fork"><img src="https://img.shields.io/badge/Fork%20FrediAdamsmd%20Repo-yellow" alt="FREDI ADAMS-MD REPO" width="150"></a>
 
 ## GET YOUR SESSION ID:
 
