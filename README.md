@@ -1,23 +1,23 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"><b>FREDI_ADAMS_MD</b>
+<h1 align="center"><b>FREDI_MD</b>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">  
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Fredi+Adams+MD+Created+By+Fredie..&heart;++;Self-taught+Green-Created+By,;Fredi+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Fredi+MD+Created+By+Fredie..&heart;++;Self-taught+Green-Created+By,;Fredi+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/a8b74780a8d18240b1d82.jpg" alt="01" border="0" /></a>     
 
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=FREDI_ADAMS_MD+V3.0.0+RESPONDS+FAST" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=FREDI_MD+V3.0.0+RESPONDS+FAST" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-FREDIE TECH-green.svg?style=for-the-badge&logo=github">
 
 </p>
   <p align="center">
-<a href="https://github.com/fred1e?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/FrediAdamsmd?label=Followers&style=social"></a>
-<a href="https://github.com/Fred1e/fredi_adams_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/fredi_adams_md?&style=social"></a>
-<a href="https://github.com/Fred1e/fredi_adams_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/fredi_adams_md?style=social"></a>
-<a href="https://github.com/Fred1e/fredi_adams_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/fredi_adams_md?label=Watching&style=social"></a>
+<a href="https://github.com/fred1e?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Fredimd?label=Followers&style=social"></a>
+<a href="https://github.com/Fred1e/fredi_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/fredi_md?&style=social"></a>
+<a href="https://github.com/Fred1e/fredi_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/fredi_md?style=social"></a>
+<a href="https://github.com/Fred1e/fredi_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/fredi_md?label=Watching&style=social"></a>
    
 ![Aaaaand many more](res/readme/context.gif)
 
@@ -34,7 +34,7 @@
  
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/Fred1e/FREDI_ADAMS_MD-/fork"><img src="https://img.shields.io/badge/Fork%20FrediAdamsmd%20Repo-yellow" alt="FREDI ADAMS-MD REPO" width="150"></a>
+<a href="https://github.com/Fred1e/FREDI_MD/fork"><img src="https://img.shields.io/badge/Fork%20Fredimd%20Repo-yellow" alt="FREDI-MD REPO" width="150"></a>
 
 ## GET YOUR SESSION ID:
   
@@ -105,9 +105,9 @@ Who helped in commands addition
 
 ## License
 
-The WhatsApp Bot FREDI_ADAMS_MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot FREDI_MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-🌟 THANK YOU FOR CHOOSING FREDI_ADAMS_MD 🌟
+🌟 THANK YOU FOR CHOOSING FREDI_MD 🌟
 
 ## DEVELOPERS :
 
