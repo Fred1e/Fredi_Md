@@ -7,7 +7,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/a8b74780a8d18240b1d82.jpg" alt="01" border="0" /></a>     
 
-p.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=FREDI-MD+V3.0.0+RESPONDS+FAST" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=FREDI_ADAMS_MD+V3.0.0+RESPONDS+FAST" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-FREDIE TECH-green.svg?style=for-the-badge&logo=github"></a>
