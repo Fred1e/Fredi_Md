@@ -29,8 +29,10 @@
   ## 1 *`⨷TAP HERE YOU OPEN SESSIOS APP`*
 
   <h1 align="center"> 
+
+ **CLICK HERE 👇 TO PAIR**
  
-  **[`ADAMS APP`](https://fredietech-9a463a9f46ea.herokuapp.com/)**
+  <a href="https://fredietech-9a463a9f46ea.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
