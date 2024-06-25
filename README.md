@@ -114,4 +114,4 @@ The WhatsApp Bot FREDI_ADAMS_MD is released under the [MIT License](https://open
 - [**IBRAHIM ADAMS**](https://github.com/ibrahimaetech)
 - [**DEVELOPERS**](https://www.youtube.com/@freeonlinetvT1)
 
-★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝚎𝚕𝚝𝚊𝚑-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖. ©
+★THANK YOU GOD FOR THAT MOMENT🙏. ©
