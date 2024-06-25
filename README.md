@@ -89,13 +89,29 @@
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 2.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 2.0        |
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<br/> <div align="center">
-[![github](https://github.com/github.png?size=100)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/heroku.png?size=100)](#click-here-to-deploy)[![replit](https://github.com/replit.png?size=100)](https://github.com/ibrahimaitech) [![whatsapp](https://github.com/whatsapp.png?size=89)](https://ibrahimaitech)[![bot](https://github.com/youtube.png?size=89)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/facebook.png?size=89)](https://ibrahimaitech)[![Heroku](https://github.com/instagram.png?size=89)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/you-tube.png?size=89)](https://github.com/ibrahimaitech)<br/>
-</div>
-## 𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 
+## CONTRIBUTIONS
 
-[`GOD🙏`]
+Contributions to FREDI_ADAMS_MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
+  ## THANKS TO MY FELLOW DEV FOR;
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    [IBRAHIM ADAMS] 
+    
+Who added commands (uptime, ping, vv, ss, repo); <br>
+
+Who helped in commands addition 
+(ai, dalle, gpt4, gpt, starting up message for bot, updated index. Js) ;
+
+## License
+
+The WhatsApp Bot FREDI_ADAMS_MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+🌟 THANK YOU FOR CHOOSING FREDI_ADAMS_MD 🌟
+
+## DEVELOPERS :
+
+- [**FREDIE TECH**](https://github.com/Fred1e)
+- [**IBRAHIM ADAMS**](https://github.com/ibrahimaetech)
+- [**DEVELOPERS**](https://www.youtube.com/@freeonlinetvT1)
+
+★𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝚎𝚕𝚝𝚊𝚑-𝚃𝚎𝚌𝚑-𝚃𝚎𝚊𝚖. ©
