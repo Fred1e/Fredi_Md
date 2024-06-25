@@ -10,15 +10,15 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=FREDI_ADAMS_MD+V3.0.0+RESPONDS+FAST" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-FREDIE TECH-green.svg?style=for-the-badge&logo=github"></a>
-<p/>
-<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-FREDIE TECH-green.svg?style=for-the-badge&logo=github">
+
+</p>
+  <p align="center">
 <a href="https://github.com/fred1e?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/FrediAdamsmd?label=Followers&style=social"></a>
 <a href="https://github.com/Fred1e/fredi_adams_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/fredi_adams_md?&style=social"></a>
 <a href="https://github.com/Fred1e/fredi_adams_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/fredi_adams_md?style=social"></a>
 <a href="https://github.com/Fred1e/fredi_adams_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/fredi_adams_md?label=Watching&style=social"></a>
-   </a>
-</p>
+   
 ![Aaaaand many more](res/readme/context.gif)
 
  ## Join my channel
@@ -37,7 +37,7 @@
 <a href="https://github.com/Fred1e/FREDI_ADAMS_MD-/fork"><img src="https://img.shields.io/badge/Fork%20FrediAdamsmd%20Repo-yellow" alt="FREDI ADAMS-MD REPO" width="150"></a>
 
 ## GET YOUR SESSION ID:
-  </a>
+  
  **CLICK HERE 👇 TO PAIR**
  
   <a href="https://fredietech-9a463a9f46ea.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="FREDI ADAMS APP" width="150"></a>
@@ -54,8 +54,7 @@
 <h1 align="center">
 
 ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_ADAMS_MD/tree/patch-1)***
-  </a>
-</p>
+  
 ## CONTACT DEVELOPER
 
 ⏣REACH FREDIETECH DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.link/1eyv9w)
@@ -77,8 +76,7 @@
 
 
 𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 𝙱𝙾𝚃.
-  </a>
-</p>
+  
    ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
@@ -91,8 +89,7 @@
 | Economy Menu                     | Engage in economic activities within the bot            | ✅           | 2.0        |
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 2.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 2.0        |
-  </a>
-</p>
+  
 ## CONTRIBUTIONS
 
 Contributions to FREDI_ADAMS_MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
@@ -109,8 +106,7 @@ Who helped in commands addition
 ## License
 
 The WhatsApp Bot FREDI_ADAMS_MD is released under the [MIT License](https://opensource.org/licenses/MIT).
-  </a>
-</p>
+
 🌟 THANK YOU FOR CHOOSING FREDI_ADAMS_MD 🌟
 
 ## DEVELOPERS :
@@ -118,6 +114,5 @@ The WhatsApp Bot FREDI_ADAMS_MD is released under the [MIT License](https://open
 - [**FREDIE TECH**](https://github.com/Fred1e)
 - [**IBRAHIM ADAMS**](https://github.com/ibrahimaetech)
 - [**DEVELOPERS**](https://www.youtube.com/@freeonlinetvT1)
-  </a>
-</p>
+  
 ★THANK YOU GOD FOR THAT MOMENT🙏. ©
