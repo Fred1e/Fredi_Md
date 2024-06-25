@@ -21,16 +21,16 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  **`DEPLOYMENT METHODS`**-
+ 
+**CLICK HERE 👇 TO FORK**
 
- <h1 align="center">  SESSION SITE 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a href="https://github.com/Fred1e/FREDI_ADAMS_MD-/fork"><img src="https://img.shields.io/badge/Fork%20Beltahmd%20Repo-yellow" alt="FREDI ADAMS-MD REPO" width="150"></a>
 
-
-  <h1 align="center"> 
+## GET YOUR SESSION ID:
 
  **CLICK HERE 👇 TO PAIR**
  
-  <a href="https://fredietech-9a463a9f46ea.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+  <a href="https://fredietech-9a463a9f46ea.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="FREDI ADAMS APP" width="150"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
