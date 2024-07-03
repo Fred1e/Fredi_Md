@@ -116,3 +116,7 @@ The WhatsApp Bot FREDI_MD is released under the [MIT License](https://opensource
 - [**DEVELOPERS**](https://www.youtube.com/@freeonlinetvT1)
   
 ★THANK YOU GOD FOR THAT MOMENT🙏. ©
+
+
+
+**⚠ DON'T DEPLOY TO HEROKU NOW**
