@@ -44,7 +44,7 @@
 
 **CLICK HERE 👇 TO SCAN QR**
 
-<a href="https://fredietech-ed02ed596af3.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-red" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://fredietech-ed02ed596af3.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-blue" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 **CLICK HERE 👇 TO WATCH TUTORIAL**
 
