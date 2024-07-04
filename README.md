@@ -2,7 +2,7 @@
 <h1 align="center"><b>FREDI_MD</b>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">  
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Fredi+MD+Created+By+Fredie..&heart;++;Self-taught+Green-Created+By,;Fredi+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Fredi+MD+Created+By+Fredie..&heart;++;Self-taught+Green-Created+By,;Fredi+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/a8b74780a8d18240b1d82.jpg" alt="01" border="0" /></a>     
@@ -40,7 +40,7 @@
   
  **CLICK HERE 👇 TO PAIR**
  
-  <a href="https://fredietech-ed02ed596af3.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="FREDI ADAMS APP" width="150"></a>
+  <a href="https://fredietech-ed02ed596af3.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="FREDI ADAMS APP" width="150"></a>
 
 **CLICK HERE 👇 TO SCAN QR**
 
@@ -58,6 +58,7 @@
 ## CONTACT DEVELOPER
 
 ⏣REACH FREDIETECH DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.link/1eyv9w)
+⏣DEVELOPER2 [**HERE**](https://wa.link/4D9CPJ)
 
 <br>
 
