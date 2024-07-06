@@ -40,11 +40,11 @@
   
  **CLICK HERE 👇 TO PAIR**
  
-  <a href="https://fredietech-ed02ed596af3.herokuapp.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="FREDI ADAMS APP" width="150"></a>
+  <a href="https://fredi-md-cc6aac65735a.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="FREDI ADAMS APP" width="150"></a>
 
 **CLICK HERE 👇 TO SCAN QR**
 
-<a href="https://fredietech-ed02ed596af3.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-blue" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
+<a href="https://fredi-md-cc6aac65735a.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-blue" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 **CLICK HERE 👇 TO WATCH TUTORIAL**
 
