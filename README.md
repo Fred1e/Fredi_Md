@@ -18,7 +18,9 @@
 <a href="https://github.com/Fred1e/fredi_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/fredi_md?&style=social"></a>
 <a href="https://github.com/Fred1e/fredi_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/fredi_md?style=social"></a>
 <a href="https://github.com/Fred1e/fredi_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/fredi_md?label=Watching&style=social"></a>
-   
+
+***DON'T DEPLOY NOW IT BUNN YOUR HEROKU***
+
 ![Aaaaand many more](res/readme/context.gif)
 
  ## Join my channel
