@@ -57,6 +57,10 @@
 
 ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_MD-/tree/patch-1)***
   
+  # 
+
+<a href="https://github.com/Fred1e/Error"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOYON-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
 ## CONTACT DEVELOPER
 
 ⏣REACH FREDIETECH DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.link/1eyv9w)
