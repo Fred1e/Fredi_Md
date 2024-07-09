@@ -61,8 +61,6 @@
 
 ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://telegra.ph/file/f466c0ee22a7b51ffd8d4.jpg)***
 
-<br>
-
 ## CLICK HERE TO DEPLOY ON GITHUB
   
 # 
