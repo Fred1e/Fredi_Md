@@ -36,26 +36,36 @@
  
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/Fred1e/FREDI_MD/fork"><img src="https://img.shields.io/badge/Fork%20Fredimd%20Repo-yellow" alt="FREDI-MD REPO" width="150"></a>
+#
+<a href="https://github.com/Fred1e/FREDI_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ## GET YOUR SESSION ID:
   
  **CLICK HERE 👇 TO PAIR**
- 
-  <a href="https://fredieappk-e777cb3bf819.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-green" alt="FREDI ADAMS APP" width="150"></a>
+
+ #
+  <a href="https://fredieappk-e777cb3bf819.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 **CLICK HERE 👇 TO SCAN QR**
 
+#
 <a href="https://fredieappk-e777cb3bf819.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-blue" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="150"></a>
 
 **CLICK HERE 👇 TO WATCH TUTORIAL**
 
+#
 <a href="https://www.youtube.com/@freeonlinetvT1"><img src="https://img.shields.io/badge/WATCH%20FULL%20TUTORIAL-red" alt="FULL TUTORIAL HERE" width="150"></a>
 
 ## 4. DEPLOY NOW ON HEROKU 
 <h1 align="center">
 
-***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_MD-/tree/patch-1)***
+***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://telegra.ph/file/f466c0ee22a7b51ffd8d4.jpg)***
+<br>
+
+ # 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/kqO_n5?referralCode=AqkNn4)
+
+<br>
 
 ## CLICK HERE TO DEPLOY ON GITHUB
   
