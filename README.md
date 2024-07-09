@@ -54,7 +54,7 @@
 **CLICK HERE 👇 TO WATCH TUTORIAL**
 
 #
-<a href="https://www.youtube.com/@freeonlinetvT1"><img src="https://img.shields.io/badge/WATCH%20FULL%20TUTORIAL-red" alt="FULL TUTORIAL HERE" width="150"></a>
+<a href="https://www.youtube.com/@freeonlinetvT1"><img title="Tap Here Watch Tutorial" src="https://img.shields.io/badge/WATCH FULL TUTORIAL-h?color=blood red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ## 4. DEPLOY NOW ON HEROKU 
 <h1 align="center">
@@ -65,8 +65,7 @@
 
 ## CLICK HERE TO DEPLOY ON GITHUB
   
-  # 
-
+# 
 <a href="https://github.com/Fred1e/FREDI_MDX-"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOYON-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ## CONTACT DEVELOPER
