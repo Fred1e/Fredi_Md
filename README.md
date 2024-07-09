@@ -49,7 +49,7 @@
 **CLICK HERE 👇 TO SCAN QR**
 
 #
-<a href="https://fredieappk-e777cb3bf819.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20session%20code-green" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="220"height="38.45"/></a></p>
+<a href="https://fredieappk-e777cb3bf819.herokuapp.com/qr"><img title="Tap Here Open Scan Qr Site" src="https://img.shields.io/badge/SCAN  QR -h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 **CLICK HERE 👇 TO WATCH TUTORIAL**
 
