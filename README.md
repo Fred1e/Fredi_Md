@@ -56,20 +56,21 @@
 #
 <a href="https://www.youtube.com/@freeonlinetvT1"><img title="Tap Here Watch Tutorial" src="https://img.shields.io/badge/WATCH FULL TUTORIAL-h?color=blood red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
+**CLICK HERE TO DEPLOY ON GITHUB**
+  
+# 
+<a href="https://github.com/Fred1e/FREDI_MDX-"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOYON-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
 ## 4. DEPLOY NOW ON HEROKU 
 <h1 align="center">
 
 ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://telegra.ph/file/f466c0ee22a7b51ffd8d4.jpg)***
 
-## CLICK HERE TO DEPLOY ON GITHUB
-  
-# 
-<a href="https://github.com/Fred1e/FREDI_MDX-"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOYON-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ## CONTACT DEVELOPER
 
-⏣REACH FREDIETECH DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.link/1eyv9w)
-⏣DEVELOPER2 [**HERE**](https://wa.link/4D9CPJ)
+⏣REACH FREDIETECH DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.link/4d9cpj)
+⏣TELEGRAM [**HERE**](https://t.me/freditech)
 
 <br>
 
