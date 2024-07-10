@@ -62,7 +62,7 @@
 **CLICK HERE TO DEPLOY ON GITHUB**
   
 # 
-<a href="https://github.com/Fred1e/FREDI-MD"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOYON-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/Fred1e/Fredi"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOYON-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## 4. DEPLOY NOW ON HEROKU 
