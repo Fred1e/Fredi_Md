@@ -30,7 +30,6 @@
   </a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## DEPLOYMENT METHODS
  
@@ -38,6 +37,7 @@
 
 #
 <a href="https://github.com/Fred1e/FREDI_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## GET YOUR SESSION ID:
   
@@ -45,27 +45,32 @@
 
  #
   <a href="https://fredieappk-e777cb3bf819.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 **CLICK HERE 👇 TO SCAN QR**
 
 #
 <a href="https://fredieappk-e777cb3bf819.herokuapp.com/qr"><img title="Tap Here Open Scan Qr Site" src="https://img.shields.io/badge/SCAN  QR -h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 **CLICK HERE 👇 TO WATCH TUTORIAL**
 
 #
 <a href="https://www.youtube.com/@freeonlinetvT1"><img title="Tap Here Watch Tutorial" src="https://img.shields.io/badge/WATCH FULL TUTORIAL-h?color=blood red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 **CLICK HERE TO DEPLOY ON GITHUB**
   
 # 
 <a href="https://github.com/Fred1e/FREDI_MDX-"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOYON-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## 4. DEPLOY NOW ON HEROKU 
 <h1 align="center">
 
 ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://telegra.ph/file/f466c0ee22a7b51ffd8d4.jpg)***
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## CONTACT DEVELOPER
 
@@ -102,10 +107,13 @@
 | Economy Menu                     | Engage in economic activities within the bot            | ✅           | 2.0        |
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 2.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 2.0        |
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 ## CONTRIBUTIONS
 
 Contributions to FREDI_ADAMS_MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
   ## THANKS TO MY FELLOW DEV FOR;
 
@@ -115,21 +123,22 @@ Who added commands (uptime, ping, vv, ss, repo); <br>
 
 Who helped in commands addition 
 (ai, dalle, gpt4, gpt, starting up message for bot, updated index. Js) ;
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## License
 
 The WhatsApp Bot FREDI_MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 🌟 THANK YOU FOR CHOOSING FREDI_MD 🌟
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## DEVELOPERS :
 
 - [**FREDIE TECH**](https://github.com/Fred1e)
 - [**IBRAHIM ADAMS**](https://github.com/ibrahimaetech)
 - [**DEVELOPERS**](https://www.youtube.com/@freeonlinetvT1)
-  
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ 
 ★THANK YOU GOD FOR THAT MOMENT🙏. ©
-
-
-
-**DEPLOY TO HEROKU NOW NO BANN**
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
