@@ -23,6 +23,14 @@
     <img alt="FredieTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
+</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="Fredi_md :: Visitor's Count" /></p>
+---
+
+
+
+
+
 ***DON'T DEPLOY NOW IT BUNN YOUR HEROKU***
 
 ![Aaaaand many more](res/readme/context.gif)
