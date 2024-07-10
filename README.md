@@ -19,6 +19,10 @@
 <a href="https://github.com/Fred1e/fredi_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fred1e/fredi_md?style=social"></a>
 <a href="https://github.com/Fred1e/fredi_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fred1e/fredi_md?label=Watching&style=social"></a>
 
+  <a aria-label="Fredi_md is free to use" href="https://github.com/Fred1e/Fredi_md" target="_blank">
+    <img alt="FredieTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  </a>
+
 ***DON'T DEPLOY NOW IT BUNN YOUR HEROKU***
 
 ![Aaaaand many more](res/readme/context.gif)
