@@ -1,8 +1,8 @@
 {
-  "name": "Black Panther MD X5 whatsapp",
+  "name": "Fredi MD X5 whatsapp",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/BlackPanther-svg/Black-Panther-MD-",
-  "logo": "https://telegra.ph/file/ec059aa5db556bbd951c6.jpg",
+  "repository": "https://github.com/Fredi-svg/FREDI_MD",
+  "logo": "https://telegra.ph/file/a8b74780a8d18240b1d82.jpg",
   "keywords": ["nodejs", "bot", "what5sapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
