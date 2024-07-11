@@ -30,10 +30,18 @@
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="Fredi_md :: Visitor's Count" /></p>
+
+<p align="center">
+  <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
+</p>
+
 ---
 
+<p align="center">
+  <a href="https://github.com/Fred1e/Fredi_md"><b>Fredi_md</b></a> Support Deploy On...
+</p>
 
-
+  <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fred1e%2Fredi_md-"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
 
 
 ***DON'T DEPLOY NOW IT BUNN YOUR HEROKU***
@@ -61,7 +69,7 @@
  **CLICK HERE 👇 TO PAIR**
 
  #
-  <a href="https://fredieappk-e777cb3bf819.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+  <a href="https://fredieappk-e777cb3bf819.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 **CLICK HERE 👇 TO SCAN QR**
