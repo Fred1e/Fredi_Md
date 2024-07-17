@@ -57,27 +57,27 @@
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## DEPLOYMENT METHODS
- 
-**CLICK HERE 👇 TO FORK**
+***
 
-#
+## DEPLOYMENT METHODS
+ **Click Here 👇 To Fork**
 - <a align="center"><a href="https://github.com/Fred1e/FREDI_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=darkgreen&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## GET YOUR SESSION ID:
-  
- **CLICK HERE 👇 TO PAIR**
 
- #
+***
+
+## GET YOUR SESSION ID:
+   **Click Here 👇 To Open Site For Pair**
   - <a align="center"><a  href="https://fredieappk-e777cb3bf819.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-**CLICK HERE 👇 TO SCAN QR**
-
-#
+**CLick Here 👇 To Scan QR**
 - <a align="center"><a  href="https://fredieappk-e777cb3bf819.herokuapp.com/qr"><img title="Tap Here Open Scan Qr Site" src="https://img.shields.io/badge/SCAN  QR -h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+***
 
 **CLICK HERE 👇 TO WATCH TUTORIAL**
 
@@ -86,17 +86,16 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
+***
+
 ## 4. DEPLOY NOW ON HEROKU 
 **1. If You Don't Have An Account On Heroku**
-
 - <a align="center"><a href="https://signup.heroku.com">
  <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 **2. If You Have Account On Heroku**
-
-<h1 align="center">
-  
-***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_MD-/tree/patch-1)***
+- <h1 align="center">
+  ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_MD-/tree/patch-1)***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -122,8 +121,10 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## CONTACT DEVELOPER
 
+***
+
+## CONTACT DEVELOPER
 ⏣REACH FREDIETECH DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.link/4d9cpj)
 ⏣TELEGRAM [**HERE**](https://t.me/freditech)
 
