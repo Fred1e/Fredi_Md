@@ -87,17 +87,34 @@
 <a href="https://www.youtube.com/@freeonlinetvT1"><img title="Tap Here Watch Tutorial" src="https://img.shields.io/badge/WATCH FULL TUTORIAL-h?color=blood red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-**CLICK HERE TO DEPLOY ON GITHUB**
-  
-# 
-<a href="https://github.com/Fred1e/Fredi"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/DEPLOYON-GITHUB -h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## 4. DEPLOY NOW ON HEROKU 
 <h1 align="center">
 
 ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_MD-/tree/patch-1)***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+***
+
+#### DEPLOY ON RENDER 
+**1. If You Don't Have An Account On Render**
+- <a href="https://dashboard.render.com/register"><img src="https://img.shields.io/badge/CREATE AN ACCOUNT NOW-h?color=storm&style=for-the-badge&logo=msi" width="200" height="38.45"/></a></p>
+
+**2. If You Have an account on Render**
+- <a href="https://render.com"><img title="Deploy Now" src="https://img.shields.io/badge/DEPLOY NOW-h?color=storm&style=for-the-badge&logo=msi" width="200" height="38.45"/></a></p>
+
+**3.Create an account on UPTIME TO MAKE YOUR RENDER BOT STABLE**
+- <a href="https://uptimerobot.com"><img title="Deploy Now" src="https://img.shields.io/badge/CREATE NOW-h?color=storm&style=for-the-badge&logo=msi" width="200" height="38.45"/></a></p>
+
+**4. Join our telegram Channel and watch tutorials on how to deploy**
+- <a href="https://t.me/france_king1"><img title="Author" src="https://img.shields.io/badge/JOIN NOW-black?style=for-the-badge&logo=Telegram"></a>
+
+
+
+***
+
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## CONTACT DEVELOPER
