@@ -94,7 +94,7 @@
  <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 **2. If You Have Account On Heroku**
-- <h1 align="center">
+-<h1 align="center">
   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_MD-/tree/patch-1)***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
