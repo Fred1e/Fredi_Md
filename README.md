@@ -47,13 +47,11 @@
   <a href="https://youtu.be/izoxfW3anrU"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
-***DON'T DEPLOY NOW IT BUNN YOUR HEROKU***
-
 ![Aaaaand many more](res/readme/context.gif)
 
  ## Join my channel
 
-<a href="https://whatsapp.com/channel/0029VafeCKHKmCPMtW3bFA08" target="_blank">
+<a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -64,7 +62,7 @@
 **CLICK HERE 👇 TO FORK**
 
 #
-<a href="https://github.com/Fred1e/FREDI_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=darkgreen&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a align="center"><a href="https://github.com/Fred1e/FREDI_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=darkgreen&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## GET YOUR SESSION ID:
@@ -72,19 +70,19 @@
  **CLICK HERE 👇 TO PAIR**
 
  #
-  <a href="https://fredieappk-e777cb3bf819.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+  - <a align="center"><a  href="https://fredieappk-e777cb3bf819.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 **CLICK HERE 👇 TO SCAN QR**
 
 #
-<a href="https://fredieappk-e777cb3bf819.herokuapp.com/qr"><img title="Tap Here Open Scan Qr Site" src="https://img.shields.io/badge/SCAN  QR -h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a align="center"><a  href="https://fredieappk-e777cb3bf819.herokuapp.com/qr"><img title="Tap Here Open Scan Qr Site" src="https://img.shields.io/badge/SCAN  QR -h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 **CLICK HERE 👇 TO WATCH TUTORIAL**
 
 #
-<a href="https://www.youtube.com/@freeonlinetvT1"><img title="Tap Here Watch Tutorial" src="https://img.shields.io/badge/WATCH FULL TUTORIAL-h?color=bloodred&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a align="center"><a href="https://www.youtube.com/@freeonlinetvT1"><img title="Tap Here Watch Tutorial" src="https://img.shields.io/badge/WATCH FULL TUTORIAL-h?color=darkred&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
