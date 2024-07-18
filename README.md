@@ -128,6 +128,10 @@
 ⏣REACH FREDIETECH DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.link/4d9cpj)
 ⏣TELEGRAM [**HERE**](https://t.me/freditech)
 
+**GET In Touch with The Owner**
+- <a href="https://www.instagram.com/fredi.ezra"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-black?style=for-the-badge&logo=Instagram"></a>
+-
+
 <br>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
