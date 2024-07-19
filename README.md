@@ -117,9 +117,11 @@
 
 #### DEPLOY ON RAILWAY
 **1. If You Don't Have An Account On Render**
-- <a href="https://railway.app/login"><img src="https://img.shields.io/badge/CREATE AN ACCOUNT NOW-h?color=purple&style=for-the-badge&logo=railway&logocolor=white" width="220" height="38.45"/></a></p>
+
+[![Create An Account Now](https://railway.app/button.svg)](https://railway.app/login) 
 
 **2. If You Have an account on Railway**
+
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/kqO_n5?referralCode=AqkNn4)
 
 
