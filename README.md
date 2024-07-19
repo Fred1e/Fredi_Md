@@ -118,6 +118,23 @@
 
 ***
 
+#### DEPLOY ON RAILWAY
+**1. If You Don't Have An Account On Render**
+- <a href="https://dashboard.Railway.com/register"><img src="https://img.shields.io/badge/CREATE AN ACCOUNT NOW-h?color=purple&style=for-the-badge&logo=railway&logocolor=white" width="220" height="38.45"/></a></p>
+
+**2. If You Have an account on Railway**
+- <a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src="https://img.shields.io/badge/- RAILWAY -purple?style=for-the-badge&logo=railway&logoColor=white" width="220" height="38.45"/></a></p>
+
+
+***
+
+#### DEPLOY ON KOYEB
+**2. If You Have an account on Koyeb**
+- <a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-   K O Y E B  -red?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+
+
+***
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
