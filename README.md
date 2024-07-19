@@ -134,6 +134,11 @@
 - <a href='https://www.koyeb.com/' target="_blank"><img alt='DEPLOY NOW' src="https://img.shields.io/badge/- DEPLOY NOW -red?style=for-the-badge&logo=koyeb&logoColor=white" width="220" height="38.45"/></a></p>
 
 
+***
+
+<p align=""><a href="https://repl.it/github/ibrahimaitech/BLACK-PANTHER-MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
+
+
 
 ***
 
