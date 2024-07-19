@@ -133,8 +133,7 @@
 - <a href="https://dashboard.Koyeb.com/register"><img src="https://img.shields.io/badge/CREATE AN ACCOUNT NOW-h?color=red&style=for-the-badge&logo=koyeb&logocolor=white" width="220" height="38.45"/></a></p>
 
 **2. If You Have an account on Koyeb**
-- <a href='https://koyeb.com' target="_blank"><img alt='DEPLOY NOW' src="https://img.shields.io/badge/-   KOYEB-red?style=for-the-badge&logo=koyeb&logoColor=white"width="220" height="38.45"/></a></p>
-
+- <a href='https://Koyeb.com' target="_blank"><img alt='DEPLOY NOW' src="https://img.shields.io/badge/- KOYEB -red?style=for-the-badge&logo=koyeb&logoColor=white" width="220" height="38.45"/></a></p>
 
 
 ***
