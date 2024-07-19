@@ -123,7 +123,7 @@
 - <a href="https://railway.app/login"><img src="https://img.shields.io/badge/CREATE AN ACCOUNT NOW-h?color=purple&style=for-the-badge&logo=railway&logocolor=white" width="220" height="38.45"/></a></p>
 
 **2. If You Have an account on Railway**
-- <a href='https://railway.app/register' target="_blank"><img alt='DEPLOY NOW' src="https://img.shields.io/badge/- RAILWAY -purple?style=for-the-badge&logo=railway&logoColor=white" width="220" height="38.45"/></a></p>
+- <a href='https://railway.app/register' target="_blank"><img alt='DEPLOY' src="https://img.shields.io/badge/- DEPLOY NOW -purple?style=for-the-badge&logo=railway&logoColor=white" width="220" height="38.45"/></a></p>
 
 
 ***
@@ -133,7 +133,7 @@
 - <a href="https://app.koyeb.com/auth/signin"><img src="https://img.shields.io/badge/CREATE AN ACCOUNT NOW-h?color=red&style=for-the-badge&logo=koyeb&logocolor=white" width="220" height="38.45"/></a></p>
 
 **2. If You Have an account on Koyeb**
-- <a href='https://www.koyeb.com/' target="_blank"><img alt='DEPLOY NOW' src="https://img.shields.io/badge/- KOYEB -red?style=for-the-badge&logo=koyeb&logoColor=white" width="220" height="38.45"/></a></p>
+- <a href='https://www.koyeb.com/' target="_blank"><img alt='DEPLOY NOW' src="https://img.shields.io/badge/- DEPLOY NOW -red?style=for-the-badge&logo=koyeb&logoColor=white" width="220" height="38.45"/></a></p>
 
 
 ***
