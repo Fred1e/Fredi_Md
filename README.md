@@ -111,9 +111,6 @@
 **3.Create an account on UPTIME TO MAKE YOUR RENDER BOT STABLE**
 - <a href="https://uptimerobot.com"><img title="Deploy Now" src="https://img.shields.io/badge/CREATE NOW-h?color=teal&style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
 
-**4. Join our telegram Channel and watch tutorials on how to deploy**
-- <a href="https://t.me/france_king1"><img title="Author" src="https://img.shields.io/badge/JOIN NOW-black?style=for-the-badge&logo=Telegram"></a>
-
 
 
 ***
