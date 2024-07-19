@@ -131,8 +131,7 @@
 - <a href="https://app.koyeb.com/auth/signin"><img src="https://img.shields.io/badge/CREATE AN ACCOUNT NOW-h?color=red&style=for-the-badge&logo=koyeb&logocolor=white" width="220" height="38.45"/></a></p>
 
 **2. If You Have an account on Koyeb**
--<h1 align="center">
-[![Deploy on Koyeb](https://koyeb.app/button.svg)](https://www.koyeb.com/) 
+- <a href='https://www.koyeb.com/' target="_blank"><img alt='DEPLOY NOW' src="https://img.shields.io/badge/- DEPLOY NOW -red?style=for-the-badge&logo=koyeb&logoColor=white" width="220" height="38.45"/></a></p>
 
 
 
