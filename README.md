@@ -130,12 +130,12 @@
 
 **GET In Touch with The Owner**
 - <a href="https://www.instagram.com/fredi.ezra"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-black?style=for-the-badge&logo=Instagram"></a>
-- <a href="https://www.tiktok.com/@frediezra"><img title="Author" src="https://img.shields.io/badge/ON TikTok-brown?style=for-the-badge&logo=tiktok"></a>
+- <a href="https://www.tiktok.com/@frediezra"><img title="Author" src="https://img.shields.io/badge/ON TikTok-black?style=for-the-badge&logo=tiktok"></a>
 - <a
 href="https://www.facebook.com/profile.php?id=61553209932337&mibextid=ZbWKwL"><img title="Author" src="https://img.shields.io/badge/ON Facebook-blue?style=for-the-badge&logo=facebook"></a>
 - <a
 href="https://wa.link/4d9cpj"><img title="Author" src="https://img.shields.io/badge/ON WhatsApp-pupple?style=for-the-badge&logo=watsapp"></a>
-- <a href="https://t.me/freditech"><img title="Author" src="https://img.shields.io/badge/ON TikTok-white?style=for-the-badge&logo=tiktok"></a>
+- <a href="https://t.me/freditech"><img title="Author" src="https://img.shields.io/badge/ON Telegram-blue?style=for-the-badge&logo=telegram"></a>
 
 
 <br>
