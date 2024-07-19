@@ -82,7 +82,7 @@
 **CLICK HERE 👇 TO WATCH TUTORIAL**
 
 #
-- <a align="center"><a href="https://www.youtube.com/@freeonlinetvT1"><img title="Tap Here Watch Tutorial" src="https://img.shields.io/badge/WATCH FULL TUTORIAL-h?color=darkred&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a align="center"><a href="https://www.youtube.com/@freeonlinetvT1"><img title="Tap Here Watch Tutorial" src="https://img.shields.io/badge/WATCH FULL TUTORIAL-h?color=darkred&style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
