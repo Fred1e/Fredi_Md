@@ -123,14 +123,17 @@
 - <a href="https://dashboard.Railway.com/register"><img src="https://img.shields.io/badge/CREATE AN ACCOUNT NOW-h?color=purple&style=for-the-badge&logo=railway&logocolor=white" width="220" height="38.45"/></a></p>
 
 **2. If You Have an account on Railway**
-- <a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src="https://img.shields.io/badge/- RAILWAY -purple?style=for-the-badge&logo=railway&logoColor=white" width="220" height="38.45"/></a></p>
+- <a href='https://railway.com' target="_blank"><img alt='DEPLOY NOW' src="https://img.shields.io/badge/- RAILWAY -purple?style=for-the-badge&logo=railway&logoColor=white" width="220" height="38.45"/></a></p>
 
 
 ***
 
 #### DEPLOY ON KOYEB
+**1. If You Don't Have An Account On Render**
+- <a href="https://dashboard.Koyeb.com/register"><img src="https://img.shields.io/badge/CREATE AN ACCOUNT NOW-h?color=red&style=for-the-badge&logo=koyeb&logocolor=white" width="220" height="38.45"/></a></p>
+
 **2. If You Have an account on Koyeb**
-- <a href='https://wa.link/e9lbut' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-   K O Y E B  -red?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+- <a href='https://koyeb.com' target="_blank"><img alt='DEPLOY NOW' src="https://img.shields.io/badge/-   KOYEB-red?style=for-the-badge&logo=koyeb&logoColor=white"width="220" height="38.45"/></a></p>
 
 
 
