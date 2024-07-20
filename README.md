@@ -136,6 +136,8 @@
 
 ***
 
+#### DEPLOY ON REPLIT
+**2. If You Have an account on Replit**
 - <p align=""><a href="https://repl.it/github/Fred1e/FREDI_MD"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
 
 
@@ -166,7 +168,7 @@ href="https://wa.link/4d9cpj"><img title="Author" src="https://img.shields.io/ba
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
- ## How To Deploy Fredi Adams 
+ ## How To Deploy Fredi Md 
  
 𝙵𝙸𝚁𝚂𝚃 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾.
 
