@@ -95,7 +95,7 @@
 
 **2. If You Have Account On Heroku**
 -<h1 align="center">
-  ***[![Deploy on heroku now](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_MD-plugin/tree/main)***
+  ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_MD-plugin/tree/main)***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
