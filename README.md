@@ -10,7 +10,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Fredi+MD+Created+By+Fredie..&heart;++;Self-taught+Green-Created+By,;Fredi+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/a8b74780a8d18240b1d82.jpg" alt="01" border="0" /></a>     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/63d832ae9db153376e575.jpg" alt="01" border="0" /></a>     
 
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=FREDI_MD+V3.0.0+RESPONDS+FAST" alt="">
 </p>
