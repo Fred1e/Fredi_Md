@@ -55,7 +55,8 @@
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
 
@@ -66,7 +67,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img
 src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Deployment Methods
+
 if scan qr is not working please try using pairing code i am currently working on it
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://fredi-md-644c35ba97c9.herokuapp.com/qr)
