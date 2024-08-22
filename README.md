@@ -62,23 +62,15 @@
 ## DEPLOYMENT METHODS
  **Click Here 👇 To Fork**
 - <a align="center"><a href="https://github.com/Fred1e/FREDI_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=darkgreen&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-***
-
-## GET YOUR SESSION ID:
-   **Click Here 👇 To Open Site For Pair**
-  - <a align="center"><a  href="https://fredi-md-644c35ba97c9.herokuapp.com/"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/GET SESSION -h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-**CLick Here 👇 To Scan QR**
-- <a align="center"><a  href="https://fredi-md-644c35ba97c9.herokuapp.com/qr"><img title="Tap Here Open Scan Qr Site" src="https://img.shields.io/badge/SCAN  QR -h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-***
-
+<a><img
+src='https://i.imgur.com/LyHic3i.gif'/></a>
+## Deployment Methods
+if scan qr is not working please try using pairing code i am currently working on it
+---
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://fredi-md-644c35ba97c9.herokuapp.com/qr)
+2.  [`PARING CODE`](https://fredi-md-644c35ba97c9.herokuapp.com/)
 3.  ***Deploy tutorial [`YoutubeVideo`](https://youtu.be/izoxfW3anrU).***
 4.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/izoxfW3anrU)***
 5.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=hhttps://github.com/Fred1e/Fredi_md)***
