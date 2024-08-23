@@ -49,36 +49,27 @@
 
 ![Aaaaand many more](res/readme/context.gif)
 
- ## Join my channel
 
-<a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
 
 ## DEPLOYMENT METHODS
- **Click Here 👇 To Fork**
-- <a align="center"><a href="https://github.com/Fred1e/FREDI_MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK-REPO -h?color=darkgreen&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img
-src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 if scan qr is not working please try using pairing code i am currently working on it
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://fredi-md-644c35ba97c9.herokuapp.com/qr)
-2.  [`PARING CODE`](https://fredi-md-644c35ba97c9.herokuapp.com/)
-3.  ***Deploy tutorial [`YoutubeVideo`](https://youtu.be/izoxfW3anrU).***
-4.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/izoxfW3anrU)***
-5.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=hhttps://github.com/Fred1e/Fredi_md)***
-6.  ***Deploy on [`Replit`](https://replit.com/github/Fred1e/Fredi_Md)***
-7.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-8.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Fred1e/Fredi_Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255620814108env[MONGODB_URI]&&env[OWNER_NAME]=fredie&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Frecyber+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FRECYBER&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Dodoma&name=Frecyber-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/63d832ae9db153376e575.jpg)***
-9.  ***Deploy on [`Render`](https://dashboard.render.com/new?template=https://github.com/Fred1e/Fredi_md/tree/main)***
+1. ***Join us `WhatsApp`channel [`FOLLOW CHANNEL`](https://whatsapp.com/channel/0029VAIHCQV84OM8LP59FO3F)***
+2. ***Fork repo here [`TAP TO FORK`](https://github.com/Fred1e/FREDI_MD/fork)***
+3.  ***Get `SESSION ID` by [`SCANING QR`](https://fredi-md-644c35ba97c9.herokuapp.com/qr)***
+4. ***And [`PARING CODE`](https://fredi-md-644c35ba97c9.herokuapp.com/)***
+5.  ***Deploy tutorial [`YoutubeVideo`](https://youtu.be/izoxfW3anrU).***
+6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/izoxfW3anrU)***
+7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=hhttps://github.com/Fred1e/Fredi_md)***
+8.  ***Deploy on [`Replit`](https://replit.com/github/Fred1e/Fredi_Md)***
+9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
+10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Fred1e/Fredi_Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255620814108env[MONGODB_URI]&&env[OWNER_NAME]=fredie&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Fredi+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FREDi&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Arusha&name=Fredi_md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/63d832ae9db153376e575.jpg)***
+11.  ***Deploy on [`Render`](https://dashboard.render.com/new?template=https://github.com/Fred1e/Fredi_md/tree/main)***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##
 ---
