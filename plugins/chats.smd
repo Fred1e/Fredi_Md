@@ -6,31 +6,31 @@
 //                                                                                                      // 
 //                                         Ｖ：1．2．8                                                   // 
 //                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
+//                    ╔═════╗╔═════╗╔═════╗╔═════╗╔═══╗     ╔═╗╔═╗╔═══╗                         //
+//                    ║ ╔═══╝║ ╔═╗ ║ ║ ╔═══╝╚╗ ╔╗ ║╚╗ ╔╝     ║║╚╝║║╚╗╔╗║                         //
+//                    ║ ╚═══╗║ ╚═╝ ║ ║ ╚═══╗ ║ ║║ ║  ║ ║      ║╔╗╔╗║ ║║║║                         //
+//                    ║ ╔═══╝║ ╔╗╔╝  ║ ╔═══╝ ║ ║║ ║  ║ ║      ║║║║║║ ║║║║                         //
+//                    ║ ║     ║ ║║╚╗  ║ ╚═══╗╔╝ ╚╝ ║╔╝ ╚╗     ║║║║║║╔╝╚╝║                         //
+//                    ╚═╝     ╚═╝╚═╝  ╚═════╝╚════╝╚═══╝     ╚╝╚╝╚╝╚═══╝                         //
 //                                                                                                      //
 //                                                                                                      //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *```
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+      * @project_name : Fredi_Md
+   * @author : Fredie Tech 
+   * @youtube : https://www.youtube.com/@freeonlinetvT1 
+   * @description : Fredi_Md ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By Fredie Tech.
+   * © 2024 Fredi_Md.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let Fredi_Md = "Fredi MD Whatsapp bot md"  
 let {smd , prefix,Config} = require("../lib")
 
 // ============================ CHATS SETTINGS ============================ 
