@@ -1,11 +1,11 @@
-//base by Tech-God
+//base by Fredie_Tech
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
+//YouTube: @freeonlinetvT1 
+//Instagram: Fredi Tz Simba sc
+//Telegram: t.me/freditech
+//GitHub: @Fred1e
+//WhatsApp: +255764182801
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@freeonlinetvT1
 
 const { default: makeWaSocket, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
@@ -32,12 +32,12 @@ const { addPremiumUser, getPremiumExpired, getPremiumPosition, expiredCheck, che
 const { fetchBuffer, buffergif } = require("./lib/myfunc2")
 
 //bug database
-const { xeontext1 } = require('./69/xeontext1')
-const { xeontext2 } = require('./69/xeontext2')
-const { xeontext3 } = require('./69/xeontext3')
-const { xeontext4 } = require('./69/xeontext4')
-const { xeontext5 } = require('./69/xeontext5')
-const { xeontext6 } = require('./69/xeontext6')
+const { fretext1 } = require('./69/fretext1')
+const { fretext2 } = require('./69/fretext2')
+const { fretext3 } = require('./69/fretext3')
+const { fretext4 } = require('./69/fretext4')
+const { fretext5 } = require('./69/fretext5')
+const { fretext6 } = require('./69/fretext6')
 const wkwk = fs.readFileSync(`./69/x.mp3`)
 const xsteek = fs.readFileSync(`./69/x.webp`)
 
@@ -58,8 +58,8 @@ const ZipXeon = JSON.parse(fs.readFileSync('./database/autoreply/zip.json'))
 const ApkXeon = JSON.parse(fs.readFileSync('./database/autoreply/apk.json'))
 
 //time
-const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
-        const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
+const xtime = moment.tz('Afreca/Dodoma').format('HH:mm:ss')
+        const xdate = moment.tz('Africa/Dodoma').format('DD/MM/YYYY')
         const time2 = moment().tz('Asia/Kolkata').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
 var xeonytimewisher = `Good Night 🌌`
@@ -133,7 +133,7 @@ module.exports = XeonBotInc = async (XeonBotInc, m, msg, chatUpdate, store) => {
         const isCreator = [ownernumber, ..._owner].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender)
         const isPremium = isCreator || isCreator || checkPremiumUser(m.sender, premium);
         expiredCheck(XeonBotInc, m, premium);
-//group chat msg by xeon
+//group chat msg by fre
 const replygcxeon = (teks) => {
 XeonBotInc.sendMessage(m.chat,
 { text: teks,
@@ -148,7 +148,7 @@ isForwarded: true,
 "body": `${ownername}`,
 "previewType": "PHOTO",
 "thumbnailUrl": ``,
-"thumbnail": fs.readFileSync(`./XeonMedia/thumb.jpg`),
+"thumbnail": fs.readFileSync(`./FreMedia/thumb.jpg`),
 "sourceUrl": `${link}`}}},
 { quoted: m})
 }
@@ -192,12 +192,12 @@ participant: '0@s.whatsapp.net'
 };
 
 const xeonimun = (texto) => {
-XeonBotInc.sendMessage(from, { text: texto, mentions: [sender]}, {quoted: m }).catch(e => {
+FreBotInc.sendMessage(from, { text: texto, mentions: [sender]}, {quoted: m }).catch(e => {
 return reply("Erro..")
 })
 }
 
-const subscribe_TechGod = {
+const subscribe_FredieTech = {
 "key": { 
 "fromMe": false,
 "participant": '0@s.whatsapp.net',
@@ -205,16 +205,16 @@ const subscribe_TechGod = {
 },
 message: {
 "listResponseMessage": {
-title: `TechGod's ur father`
+title: `FredieTech ur father`
 }}
 }
 async function XeonyCrashy(dgxeon,chat) {
-XeonBotInc.sendMessage(chat, {
+FreBotInc.sendMessage(chat, {
 document: {url: './settings.js'},
 mimetype: `image/null`,
-fileName: `${dgxeon}.${xeontext1}` ,
-caption: `${dgxeon + xeontext1}`,
-}, {quoted: subscribe_dgxeon })
+fileName: `${dgfre}.${fretext1}` ,
+caption: `${dgfre + fretext1}`,
+}, {quoted: subscribe_dgfre })
 }
 //end bug functions
 
@@ -222,56 +222,56 @@ async function loading () {
 var xeonlod = [
 "《 █▒▒▒▒▒▒▒▒▒▒▒》10%",
 "《 ████▒▒▒▒▒▒▒▒》30%",
-"《 ███████▒▒Tech-God▒▒▒》50%",
+"《 ███████▒▒Fredie-Tech▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
 "𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🐛..."
 ]
-let { key } = await XeonBotInc.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})
+let { key } = await FreBotInc.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})
 
-for (let i = 0; i < xeonlod.length; i++) {
-await XeonBotInc.sendMessage(from, {text: xeonlod[i], edit: key });
+for (let i = 0; i < Frelod.length; i++) {
+await FreBotInc.sendMessage(from, {text: frelod[i], edit: key });
 }
 }
 
-        if (!XeonBotInc.public) {
+        if (!FreBotInc.public) {
             if (!isCreator && !m.key.fromMe) return
         }
         
         if (autoread) {
-            XeonBotInc.readMessages([m.key])
+            FreBotInc.readMessages([m.key])
         }
         
         if (global.autoTyping) {
-        XeonBotInc.sendPresenceUpdate('composing', from)
+        FreBotInc.sendPresenceUpdate('composing', from)
         }
 
         if (global.autoRecording) {
-        XeonBotInc.sendPresenceUpdate('recording', from)
+        FreBotInc.sendPresenceUpdate('recording', from)
         }
 
         
         //bot number online status, available=online, unavailable=offline
-        XeonBotInc.sendPresenceUpdate('uavailable', from)
+        FreBotInc.sendPresenceUpdate('uavailable', from)
         
         if (global.autorecordtype) {
         let xeonrecordin = ['recording','composing']
-        let xeonrecordinfinal = xeonrecordin[Math.floor(Math.random() * xeonrecordin.length)]
-        XeonBotInc.sendPresenceUpdate(xeonrecordinfinal, from)
+        let xeonrecordinfinal = frerecordin[Math.floor(Math.random() * frerecordin.length)]
+        FreBotInc.sendPresenceUpdate(frerecordinfinal, from)
 
         }
         
         if (autobio) {
-            XeonBotInc.updateProfileStatus(`24/7 Online Bot. *Youtube search- Tech God* user ${ownername}`).catch(_ => _)
+            FreBotInc.updateProfileStatus(`24/7 Online Bot. *Youtube search- Fredi Tech* user ${ownername}`).catch(_ => _)
         }
         if (m.sender.startsWith('92') && global.anti92 === true) {
-            return XeonBotInc.updateBlockStatus(m.sender, 'block')
+            return FreBotInc.updateBlockStatus(m.sender, 'block')
         }
         let list = []
         for (let i of owner) {
 list.push({
-	    	displayName: await XeonBotInc.getName(i),
-	    	vcard: `BEGIN:VCARD\nVERSION:3.0\nN:${await XeonBotInc.getName(i)}\nFN:${await XeonBotInc.getName(i)}\nitem1.TEL;waid=${i}:${i}\nitem1.X-ABLabel:Click here to chat\nitem2.EMAIL;type=INTERNET:${ytname}\nitem2.X-ABLabel:YouTube\nitem3.URL:${socialm}\nitem3.X-ABLabel:GitHub\nitem4.ADR:;;${location};;;;\nitem4.X-ABLabel:Region\nEND:VCARD`
+	    	displayName: await FreBotInc.getName(i),
+	    	vcard: `BEGIN:VCARD\nVERSION:3.0\nN:${await FreBotInc.getName(i)}\nFN:${await FreBotInc.getName(i)}\nitem1.TEL;waid=${i}:${i}\nitem1.X-ABLabel:Click here to chat\nitem2.EMAIL;type=INTERNET:${ytname}\nitem2.X-ABLabel:YouTube\nitem3.URL:${socialm}\nitem3.X-ABLabel:GitHub\nitem4.ADR:;;${location};;;;\nitem4.X-ABLabel:Region\nEND:VCARD`
 	    })
 	}
 	
@@ -295,47 +295,47 @@ list.push({
             const totalhit = JSON.parse(fs.readFileSync('./database/total-hit-user.json'))[0].hit_cmd
         }
         
-for (let BhosdikaXeon of VoiceNoteXeon) {
-if (budy === BhosdikaXeon) {
-let audiobuffy = fs.readFileSync(`./XeonMedia/audio/${BhosdikaXeon}.mp3`)
-XeonBotInc.sendMessage(m.chat, { audio: audiobuffy, mimetype: 'audio/mp4', ptt: true }, { quoted: m })     
+for (let BhosdikaFre of VoiceNoteFre) {
+if (budy === BhosdikaFre) {
+let audiobuffy = fs.readFileSync(`./FreMedia/audio/${BhosdikaFre}.mp3`)
+FreBotInc.sendMessage(m.chat, { audio: audiobuffy, mimetype: 'audio/mp4', ptt: true }, { quoted: m })     
 }
 }
-for (let BhosdikaXeon of StickerXeon){
+for (let BhosdikaFre of StickerXeon){
+if (budy === BhosdikaFre){
+let stickerbuffy = fs.readFileSync(`./FreMedia/sticker/${BhosdikaFre}.webp`)
+FreBotInc.sendMessage(m.chat, { sticker: stickerbuffy }, { quoted: m })
+}
+}
+for (let BhosdikaFre of ImageFre){
+if (budy === BhosdikaFre){
+let imagebuffy = fs.readFileSync(`./FreMedia/image/${BhosdikaFre}.jpg`)
+FreBotInc.sendMessage(m.chat, { image: imagebuffy }, { quoted: m })
+}
+}
+for (let BhosdikaFre of VideoFre){
 if (budy === BhosdikaXeon){
-let stickerbuffy = fs.readFileSync(`./XeonMedia/sticker/${BhosdikaXeon}.webp`)
-XeonBotInc.sendMessage(m.chat, { sticker: stickerbuffy }, { quoted: m })
-}
-}
-for (let BhosdikaXeon of ImageXeon){
-if (budy === BhosdikaXeon){
-let imagebuffy = fs.readFileSync(`./XeonMedia/image/${BhosdikaXeon}.jpg`)
-XeonBotInc.sendMessage(m.chat, { image: imagebuffy }, { quoted: m })
-}
-}
-for (let BhosdikaXeon of VideoXeon){
-if (budy === BhosdikaXeon){
-let videobuffy = fs.readFileSync(`./XeonMedia/video/${BhosdikaXeon}.mp4`)
-XeonBotInc.sendMessage(m.chat, { video: videobuffy }, { quoted: m })
+let videobuffy = fs.readFileSync(`./XFreMedia/video/${BhosdikaFre}.mp4`)
+FreBotInc.sendMessage(m.chat, { video: videobuffy }, { quoted: m })
 }
 }
 
 const sendapk = (teks) => {
-XeonBotInc.sendMessage(from, { document: teks, mimetype: 'application/vnd.android.package-archive'}, {quoted:m})
+FreBotInc.sendMessage(from, { document: teks, mimetype: 'application/vnd.android.package-archive'}, {quoted:m})
 }
-for (let BhosdikaXeon of ApkXeon) {
-if (budy === BhosdikaXeon) {
-let buffer = fs.readFileSync(`./XeonMedia/apk/${BhosdikaXeon}.apk`)
+for (let BhosdikaFre of ApkFre) {
+if (budy === BhosdikaFre) {
+let buffer = fs.readFileSync(`./FreMedia/apk/${BhosdikaFre}.apk`)
 sendapk(buffer)
 }
 }
 
 const sendzip = (teks) => {
-XeonBotInc.sendMessage(from, { document: teks, mimetype: 'application/zip'}, {quoted:m})
+FreBotInc.sendMessage(from, { document: teks, mimetype: 'application/zip'}, {quoted:m})
 }
-for (let BhosdikaXeon of ZipXeon) {
-if (budy === BhosdikaXeon) {
-let buffer = fs.readFileSync(`./XeonMedia/zip/${BhosdikaXeon}.zip`)
+for (let BhosdikaFre of ZipFre) {
+if (budy === BhosdikaFre) {
+let buffer = fs.readFileSync(`./FreMedia/zip/${BhosdikaFre}.zip`)
 sendzip(buffer)
 }
 }
@@ -343,9 +343,9 @@ sendzip(buffer)
 const senddocu = (teks) => {
 haikal.sendMessage(from, { document: teks, mimetype: 'application/pdf'}, {quoted:m})
 }
-for (let BhosdikaXeon of DocXeon) {
-if (budy === BhosdikaXeon) {
-let buffer = fs.readFileSync(`./XeonMedia/doc/${BhosdikaXeon}.pdf`)
+for (let BhosdikaFre of DocFre) {
+if (budy === BhosdikaFre) {
+let buffer = fs.readFileSync(`./XeonMedia/doc/${BhosdikaFre}.pdf`)
 senddocu(buffer)
 }
 }
@@ -358,7 +358,7 @@ senddocu(buffer)
                     let getReason2 = afk.getAfkReason(getId2, _afk)
                     let getTimee = Date.now() - afk.getAfkTime(getId2, _afk)
                     let heheh2 = ms(getTimee)
-                    replygcxeon(`Don't tag him, he's afk\n\n*Reason :* ${getReason2}`)
+                    replygcfre(`Don't tag him, he's afk\n\n*Reason :* ${getReason2}`)
                 }
             }
             if (afk.checkAfkUser(m.sender, _afk)) {
@@ -368,48 +368,48 @@ senddocu(buffer)
                 let heheh = ms(getTime)
                 _afk.splice(afk.getAfkPosition(m.sender, _afk), 1)
                 fs.writeFileSync('./database/afk-user.json', JSON.stringify(_afk))
-                XeonBotInc.sendTextWithMentions(m.chat, `@${m.sender.split('@')[0]} have returned from afk`, m)
+                FreBotInc.sendTextWithMentions(m.chat, `@${m.sender.split('@')[0]} have returned from afk`, m)
             }
         }
         switch (command) {
             case 'addprem':
-                if (!isCreator) return replygcxeon(mess.owner)
+                if (!isCreator) return replygcfre(mess.owner)
                 if (args.length < 2)
-                    return replygcxeon(`Use :\n*#addprem* @tag time\n*#addprem* number time\n\nExample : #addprem @tag 30d`);
+                    return replygcfre(`Use :\n*#addprem* @tag time\n*#addprem* number time\n\nExample : #addprem @tag 30d`);
                 if (m.mentionedJid.length !== 0) {
                     for (let i = 0; i < m.mentionedJid.length; i++) {
                         addPremiumUser(m.mentionedJid[0], args[1], premium);
                     }
-                    replygcxeon("Premium Success")
+                    replygcfre("Premium Success")
                 } else {
                     addPremiumUser(args[0] + "@s.whatsapp.net", args[1], premium);
-                    replygcxeon("Success")
+                    replygcfre("Success")
                 }
                 break
             case 'delprem':
-                if (!isCreator) return replygcxeon(mess.owner)
-                if (args.length < 1) return replygcxeon(`Use :\n*#delprem* @tag\n*#delprem* number`);
+                if (!isCreator) return replygcfre(mess.owner)
+                if (args.length < 1) return replygcfre(`Use :\n*#delprem* @tag\n*#delprem* number`);
                 if (m.mentionedJid.length !== 0) {
                     for (let i = 0; i < m.mentionedJid.length; i++) {
                         premium.splice(getPremiumPosition(m.mentionedJid[i], premium), 1);
                         fs.writeFileSync("./database/premium.json", JSON.stringify(premium));
                     }
-                    replygcxeon("Delete success")
+                    replygcfre("Delete success")
                 } else {
                     premium.splice(getPremiumPosition(args[0] + "@s.whatsapp.net", premium), 1);
                     fs.writeFileSync("./database/premium.json", JSON.stringify(premium));
-                    replygcxeon("Success")
+                    replygcfre("Success")
                 }
                 break
             case 'listprem': {
-                if (!isCreator) return replygcxeon(mess.owner)
+                if (!isCreator) return replygcfre(mess.owner)
                 let data = require("./database/premium.json")
                 let txt = `*------「 LIST PREMIUM 」------*\n\n`
                 for (let i of data) {
                     txt += `Number : ${i.id}\n`
                     txt += `Expired : ${i.expired} Second\n`         
                 }                
-                XeonBotInc.sendMessage(m.chat, {
+                FreBotInc.sendMessage(m.chat, {
                     text: txt,
                     mentions: i
                 }, {
@@ -420,49 +420,49 @@ senddocu(buffer)
             case 'deletesession':
             case 'delsession':
             case 'clearsession': {
-                if (!isCreator) return replygcxeon(mess.owner)
+                if (!isCreator) return replygcfre(mess.owner)
                 fs.readdir("./session", async function(err, files) {
                     if (err) {
                         console.log('Unable to scan directory: ' + err);
-                        return replygcxeon('Unable to scan directory: ' + err);
+                        return replygcfre('Unable to scan directory: ' + err);
                     }
                     let filteredArray = await files.filter(item => item.startsWith("pre-key") ||
                         item.startsWith("sender-key") || item.startsWith("session-") || item.startsWith("app-state")
                     )
                     console.log(filteredArray.length);
                     let teks = `Detected ${filteredArray.length} junk files\n\n`
-                    if (filteredArray.length == 0) return replygcxeon(teks)
+                    if (filteredArray.length == 0) return replygcfre(teks)
                     filteredArray.map(function(e, i) {
                         teks += (i + 1) + `. ${e}\n`
                     })
-                    replygcxeon(teks)
+                    replygcfre(teks)
                     await sleep(2000)
-                    replygcxeon("Delete junk files...")
+                    replygcfre("Delete junk files...")
                     await filteredArray.forEach(function(file) {
                         fs.unlinkSync(`./session/${file}`)
                     });
                     await sleep(2000)
-                    replygcxeon("Successfully deleted all the trash in the session folder")
+                    replygcfre("Successfully deleted all the trash in the session folder")
                 });
             }
             break
             case 'join':
                 try {
-                    if (!isCreator) return replygcxeon(mess.owner)
-                    if (!text) return replygcxeon('Enter Group Link!')
-                    if (!isUrl(args[0]) && !args[0].includes('whatsapp.com')) return replygcxeon('Link Invalid!')
-                    replygcxeon(mess.wait)
+                    if (!isCreator) return replygcfre(mess.owner)
+                    if (!text) return replygcfre('Enter Group Link!')
+                    if (!isUrl(args[0]) && !args[0].includes('whatsapp.com')) return replygcfre('Link Invalid!')
+                    replygcfre(mess.wait)
                     let result = args[0].split('https://chat.whatsapp.com/')[1]
-                    await XeonBotInc.groupAcceptInvite(result).then((res) => replygcxeon(json(res))).catch((err) => replygcxeon(json(err)))
+                    await FreBotInc.groupAcceptInvite(result).then((res) => replygcFre(json(res))).catch((err) => replygcFre(json(err)))
                 } catch {
-                    replygcxeon('Failed to join the Group')
+                    replygcFre('Failed to join the Group')
                 }
                 break      
             case 'getsession':
-                if (!isCreator) return replygcxeon(mess.owner)
-                replygcxeon('Wait a moment, currently retrieving your session file')
+                if (!isCreator) return replygcfre(mess.owner)
+                replygcfre('Wait a moment, currently retrieving your session file')
                 let sesi = await fs.readFileSync('./session/creds.json')
-                XeonBotInc.sendMessage(m.chat, {
+                FreBotInc.sendMessage(m.chat, {
                     document: sesi,
                     mimetype: 'application/json',
                     fileName: 'creds.json'
@@ -471,115 +471,115 @@ senddocu(buffer)
                 })
                 break
             case 'shutdown':
-                if (!isCreator) return replygcxeon(mess.owner)
-                replygcxeon(`Goodbye🖐`)
+                if (!isCreator) return replygcfre(mess.owner)
+                replygcfre(`Goodbye🖐`)
                 await sleep(3000)
                 process.exit()
                 break
             case 'restart':
-                if (!isCreator) return replygcxeon(mess.owner)
-                replygcxeon('In Process....')
+                if (!isCreator) return replygcfre(mess.owner)
+                replygcfre('In Process....')
                 exec('pm2 restart all')
                 break
             case 'autoread':
-                if (!isCreator) return replygcxeon(mess.owner)
-                if (args.length < 1) return replygcxeon(`Example ${prefix + command} on/off`)
+                if (!isCreator) return replygcfre(mess.owner)
+                if (args.length < 1) return replygcfre(`Example ${prefix + command} on/off`)
                 if (q === 'on') {
                     autoread = true
-                    replygcxeon(`Successfully changed autoread to ${q}`)
+                    replygcfre(`Successfully changed autoread to ${q}`)
                 } else if (q === 'off') {
                     autoread = false
-                    replygcxeon(`Successfully changed autoread to ${q}`)
+                    replygcfre(`Successfully changed autoread to ${q}`)
                 }
                 break
                 case 'autotyping':
-                if (!isCreator) return replygcxeon(mess.owner)
-                if (args.length < 1) return replygcxeon(`Example ${prefix + command} on/off`)
+                if (!isCreator) return replygcfre(mess.owner)
+                if (args.length < 1) return replygcfre(`Example ${prefix + command} on/off`)
                 if (q === 'on') {
                     autoTyping = true
-                    replygcxeon(`Successfully changed auto-typing to ${q}`)
+                    replygcfre(`Successfully changed auto-typing to ${q}`)
                 } else if (q === 'off') {
                     autoTyping = false
-                    replygcxeon(`Successfully changed auto-typing to ${q}`)
+                    replygcfre(`Successfully changed auto-typing to ${q}`)
                 }
                 break
                 case 'autorecording':
-                if (!isCreator) return replygcxeon(mess.owner)
-                if (args.length < 1) return replygcxeon(`Example ${prefix + command} on/off`)
+                if (!isCreator) return replygcfre(mess.owner)
+                if (args.length < 1) return replygcfre(`Example ${prefix + command} on/off`)
                 if (q === 'on') {
                     autoRecording = true
-                    replygcxeon(`Successfully changed auto-recording to ${q}`)
+                    replygcfre(`Successfully changed auto-recording to ${q}`)
                 } else if (q === 'off') {
                     autoRecording = false
-                    replygcxeon(`Successfully changed auto-recording to ${q}`)
+                    replygcfre(`Successfully changed auto-recording to ${q}`)
                 }
                 break
                 case 'autorecordtyp':
-                if (!isCreator) return replygcxeon(mess.owner)
-                if (args.length < 1) return replygcxeon(`Example ${prefix + command} on/off`)
+                if (!isCreator) return replygcfre(mess.owner)
+                if (args.length < 1) return replygcfre(`Example ${prefix + command} on/off`)
                 if (q === 'on') {
                     autorecordtype = true
-                    replygcxeon(`Successfully changed auto recording and typing to ${q}`)
+                    replygcfre(`Successfully changed auto recording and typing to ${q}`)
                 } else if (q === 'off') {
                     autorecordtype = false
-                    replygcxeon(`Successfully changed auto recording and typing to ${q}`)
+                    replygcfre(`Successfully changed auto recording and typing to ${q}`)
                 }
                 break
                 case 'autoswview':
     case 'autostatusview':{
-             if (!isCreator) return replygcxeon(mess.owner)
-               if (args.length < 1) return replygcxeon('on/off?')
+             if (!isCreator) return replygcfre(mess.owner)
+               if (args.length < 1) return replygcfre('on/off?')
                if (args[0] === 'on') {
                   autoswview = true
-                  replygcxeon(`${command} is enabled`)
+                  replygcfre(`${command} is enabled`)
                } else if (args[0] === 'off') {
                   autoswview = false
-                  replygcxeon(`${command} is disabled`)
+                  replygcfre(`${command} is disabled`)
                }
             }
             break
             case 'autobio':
-                if (!isCreator) return replygcxeon(mess.owner)
-                if (args.length < 1) return replygcxeon(`Example ${prefix + command} on/off`)
+                if (!isCreator) return replygcfre(mess.owner)
+                if (args.length < 1) return replygcfre(`Example ${prefix + command} on/off`)
                 if (q == 'on') {
                     autobio = true
-                    replygcxeon(`Successfully Changed AutoBio To ${q}`)
+                    replygcfre(`Successfully Changed AutoBio To ${q}`)
                 } else if (q == 'off') {
                     autobio = false
-                    replygcxeon(`Successfully Changed AutoBio To ${q}`)
+                    replygcfre(`Successfully Changed AutoBio To ${q}`)
                 }
                 break
             case 'mode':
-                if (!isCreator) return replygcxeon(mess.owner)
-                if (args.length < 1) return replygcxeon(`Example ${prefix + command} public/self`)
+                if (!isCreator) return replygcfre(mess.owner)
+                if (args.length < 1) return replygcfre(`Example ${prefix + command} public/self`)
                 if (q == 'public') {
-                    XeonBotInc.public = true
-                    replygcxeon(mess.done)
+                    FreBotInc.public = true
+                    replygcfre(mess.done)
                 } else if (q == 'self') {
-                    XeonBotInc.public = false
-                    replygcxeon(mess.done)
+                    FreBotInc.public = false
+                    replygcfre(mess.done)
                 }
                 break
             case 'setexif':
-                if (!isCreator) return replygcxeon(mess.owner)
-                if (!text) return replygcxeon(`Example : ${prefix + command} packname|author`)
+                if (!isCreator) return replygcfre(mess.owner)
+                if (!text) return replygcfre(`Example : ${prefix + command} packname|author`)
                 global.packname = text.split("|")[0]
                 global.author = text.split("|")[1]
-                replygcxeon(`Exif successfully changed to\n\n• Packname : ${global.packname}\n• Author : ${global.author}`)
+                replygcfre(`Exif successfully changed to\n\n• Packname : ${global.packname}\n• Author : ${global.author}`)
                 break
             case 'setpp':
             case 'setpp':
             case 'setppbot':
-                if (!isCreator) return replygcxeon(mess.owner)
-                if (!quoted) return replygcxeon(`Send/Reply Image With Caption ${prefix + command}`)
-                if (!/image/.test(mime)) return replygcxeon(`Send/Reply Image With Caption ${prefix + command}`)
-                if (/webp/.test(mime)) return replygcxeon(`Send/Reply Image With Caption ${prefix + command}`)
-                var medis = await XeonBotInc.downloadAndSaveMediaMessage(quoted, 'ppbot.jpeg')
+                if (!isCreator) return replygcfre(mess.owner)
+                if (!quoted) return replygcfre(`Send/Reply Image With Caption ${prefix + command}`)
+                if (!/image/.test(mime)) return replygcfre(`Send/Reply Image With Caption ${prefix + command}`)
+                if (/webp/.test(mime)) return replygcfre(`Send/Reply Image With Caption ${prefix + command}`)
+                var medis = await FreBotInc.downloadAndSaveMediaMessage(quoted, 'ppbot.jpeg')
                 if (args[0] == 'full') {
                     var {
                         img
                     } = await generateProfilePicture(medis)
-                    await XeonBotInc.query({
+                    await FreBotInc.query({
                         tag: 'iq',
                         attrs: {
                             to: botNumber,
@@ -595,38 +595,38 @@ senddocu(buffer)
                         }]
                     })
                     fs.unlinkSync(medis)
-                    replygcxeon(mess.done)
+                    replygcfre(mess.done)
                 } else {
-                    var memeg = await XeonBotInc.updateProfilePicture(botNumber, {
+                    var memeg = await FreBotInc.updateProfilePicture(botNumber, {
                         url: medis
                     })
                     fs.unlinkSync(medis)
-                    replygcxeon(mess.done)
+                    replygcfre(mess.done)
                 }
                 break
             case 'block':
-                if (!isCreator) return replygcxeon(mess.owner)
+                if (!isCreator) return replygcfre(mess.owner)
                 let blockw = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '') + '@s.whatsapp.net'
-                await XeonBotInc.updateBlockStatus(blockw, 'block').then((res) => replygcxeon(json(res))).catch((err) => replygcxeon(json(err)))
+                await FreBotInc.updateBlockStatus(blockw, 'block').then((res) => replygcfre(json(res))).catch((err) => replygcfre(json(err)))
                 break
             case 'unblock':
-                if (!isCreator) return replygcxeon(mess.owner)
+                if (!isCreator) return replygcfre(mess.owner)
                 let blockww = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '') + '@s.whatsapp.net'
-                await XeonBotInc.updateBlockStatus(blockww, 'unblock').then((res) => replygcxeon(json(res))).catch((err) => replygcxeon(json(err)))
+                await FreBotInc.updateBlockStatus(blockww, 'unblock').then((res) => replygcfre(json(res))).catch((err) => replygcfre(json(err)))
                 break
             case 'leave':
-                if (!isCreator) return replygcxeon(mess.owner)
-                if (!m.isGroup) return replygcxeon(mess.group)
-                replygcxeon('Bye Everyone 🥺')
-                await XeonBotInc.groupLeave(m.chat)
+                if (!isCreator) return replygcfre(mess.owner)
+                if (!m.isGroup) return replygcfre(mess.group)
+                replygcfre('Bye Everyone 🥺')
+                await FreBotInc.groupLeave(m.chat)
                 break
             case 'backup':
-                if (!isCreator) return replygcxeon(mess.owner)
-                if (m.isGroup) return replygcxeon(mess.private)
-                replygcxeon(mess.wait)
+                if (!isCreator) return replygcfre(mess.owner)
+                if (m.isGroup) return replygcfre(mess.private)
+                replygcfre(mess.wait)
                 exec('zip backup.zip *')
                 let malas = await fs.readFileSync('./backup.zip')
-                await XeonBotInc.sendMessage(m.chat, {
+                await FreBotInc.sendMessage(m.chat, {
                     document: malas,
                     mimetype: 'application/zip',
                     fileName: 'backup.zip'
@@ -636,21 +636,21 @@ senddocu(buffer)
                 break
             case 'bcgc':
             case 'bcgroup': {
-                if (!isCreator) return replygcxeon(mess.owner)
-                if (!text) return replygcxeon(`Which text?\n\nExample : ${prefix + command} It's holiday tomorrow `)
-                let getGroups = await XeonBotInc.groupFetchAllParticipating()
+                if (!isCreator) return replygcfre(mess.owner)
+                if (!text) return replygcfre(`Which text?\n\nExample : ${prefix + command} It's holiday tomorrow `)
+                let getGroups = await FreBotInc.groupFetchAllParticipating()
                 let groups = Object.entries(getGroups).slice(0).map(entry => entry[1])
                 let anu = groups.map(v => v.id)
-                replygcxeon(`Send Broadcast To ${anu.length} Group Chat, End Time ${anu.length * 1.5} second`)
+                replygcfre(`Send Broadcast To ${anu.length} Group Chat, End Time ${anu.length * 1.5} second`)
                 for (let i of anu) {
                     await sleep(1500)
                     let a = '```' + `\n\n${text}\n\n` + '```' + '\n\n\nʙʀᴏᴀᴅᴄᴀsᴛ'
-                    XeonBotInc.sendMessage(i, {
+                    FreBotInc.sendMessage(i, {
                         text: a,
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: 'Broadcast By Tech God',
+                                title: 'Broadcast By Fredie Tech',
                                 body: `Sent ${i.length} Group`,
                                 thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
                                 sourceUrl: global.link,
@@ -660,19 +660,19 @@ senddocu(buffer)
                         }
                     })
                 }
-                replygcxeon(`Successfully Sent Broadcast To ${anu.length} Group`)
+                replygcfre(`Successfully Sent Broadcast To ${anu.length} Group`)
             }
             break
             case 'getcase':
-                if (!isCreator) return replygcxeon(mess.owner)
+                if (!isCreator) return replygcfre(mess.owner)
                 const getCase = (cases) => {
-                    return "case" + `'${cases}'` + fs.readFileSync("XeonBug5.js").toString().split('case \'' + cases + '\'')[1].split("break")[0] + "break"
+                    return "case" + `'${cases}'` + fs.readFileSync("FreBug5.js").toString().split('case \'' + cases + '\'')[1].split("break")[0] + "break"
                 }
-                replygcxeon(`${getCase(q)}`)
+                replygcfre(`${getCase(q)}`)
                 break
             case 'delete':
             case 'del': {
-                if (!isCreator) return replygcxeon(mess.done)
+                if (!isCreator) return replygcfre(mess.done)
                 if (!m.quoted) throw false
                 let {
                     chat,
@@ -680,8 +680,8 @@ senddocu(buffer)
                     id,
                     isBaileys
                 } = m.quoted
-                if (!isBaileys) return replygcxeon('The message was not sent by a bot!')
-                XeonBotInc.sendMessage(m.chat, {
+                if (!isBaileys) return replygcfre('The message was not sent by a bot!')
+                FreBotInc.sendMessage(m.chat, {
                     delete: {
                         remoteJid: m.chat,
                         fromMe: true,
@@ -693,9 +693,9 @@ senddocu(buffer)
             break
 
             case 'closetime':
-                if (!m.isGroup) return replygcxeon(mess.group)
-                if (!isAdmins && !isCreator) return replygcxeon(mess.admin)
-                if (!isBotAdmins) return replygcxeon(mess.botAdmin)
+                if (!m.isGroup) return replygcfre(mess.group)
+                if (!isAdmins && !isCreator) return replygcfre(mess.admin)
+                if (!isBotAdmins) return replygcfre(mess.botAdmin)
                 if (args[1] == 'detik') {
                     var timer = args[0] * `1000`
                 } else if (args[1] == 'menit') {
@@ -705,20 +705,20 @@ senddocu(buffer)
                 } else if (args[1] == 'hari') {
                     var timer = args[0] * `86400000`
                 } else {
-                    return replygcxeon('*Choose:*\nsecond\nminute\nhour\nday\n\n*Example*\n10 second')
+                    return replygcfre('*Choose:*\nsecond\nminute\nhour\nday\n\n*Example*\n10 second')
                 }
-                replygcxeon(`Close time ${q} starting from now`)
+                replygcfre(`Close time ${q} starting from now`)
                 setTimeout(() => {
                     var nomor = m.participant
                     const close = `*Closed* group closed by admin\nnow only admin can send messages`
-                    XeonBotInc.groupSettingUpdate(m.chat, 'announcement')
-                    replygcxeon(close)
+                    FreBotInc.groupSettingUpdate(m.chat, 'announcement')
+                    replygcfre(close)
                 }, timer)
                 break
             case 'opentime':
-                if (!m.isGroup) return replygcxeon(mess.group)
-                if (!isAdmins && !isCreator) return replygcxeon(mess.admin)
-                if (!isBotAdmins) return replygcxeon(mess.botAdmin)
+                if (!m.isGroup) return replygcfre(mess.group)
+                if (!isAdmins && !isCreator) return replygcfre(mess.admin)
+                if (!isBotAdmins) return replygcfre(mess.botAdmin)
                 if (args[1] == 'second') {
                     var timer = args[0] * `1000`
                 } else if (args[1] == 'minute') {
@@ -728,34 +728,34 @@ senddocu(buffer)
                 } else if (args[1] == 'day') {
                     var timer = args[0] * `86400000`
                 } else {
-                    return replygcxeon('*Choose:*\nsecond\nminute\nhour\nday\n\n*Example*\n10 second')
+                    return replygcfre('*Choose:*\nsecond\nminute\nhour\nday\n\n*Example*\n10 second')
                 }
-                replygcxeon(`Open time ${q} starting from now`)
+                replygcfre(`Open time ${q} starting from now`)
                 setTimeout(() => {
                     var nomor = m.participant
                     const open = `*Opened* The group is opened by admin\nNow members can send messages`
-                    XeonBotInc.groupSettingUpdate(m.chat, 'not_announcement')
-                    replygcxeon(open)
+                    FreBotInc.groupSettingUpdate(m.chat, 'not_announcement')
+                    replygcfre(open)
                 }, timer)
                 break
             case 'kick':
-                if (!m.isGroup) return replygcxeon(mess.group)
-                if (!isAdmins && !isGroupOwner && !isCreator) return replygcxeon(mess.admin)
-                if (!isBotAdmins) return replygcxeon(mess.botAdmin)
+                if (!m.isGroup) return replygcfre(mess.group)
+                if (!isAdmins && !isGroupOwner && !isCreator) return replygcfre(mess.admin)
+                if (!isBotAdmins) return replygcfre(mess.botAdmin)
                 let blockwww = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '') + '@s.whatsapp.net'
-                await XeonBotInc.groupParticipantsUpdate(m.chat, [blockwww], 'remove').then((res) => replygcxeon(json(res))).catch((err) => replygcxeon(json(err)))
+                await FreBotInc.groupParticipantsUpdate(m.chat, [blockwww], 'remove').then((res) => replygcfre(json(res))).catch((err) => replygcfre(json(err)))
                 break
             case 'add':
-                if (!m.isGroup) return replygcxeon(mess.group)
-                if (!isAdmins && !isGroupOwner && !isCreator) return replygcxeon(mess.admin)
-                if (!isBotAdmins) return replygcxeon(mess.botAdmin)
+                if (!m.isGroup) return replygcfre(mess.group)
+                if (!isAdmins && !isGroupOwner && !isCreator) return replygcfre(mess.admin)
+                if (!isBotAdmins) return replygcfre(mess.botAdmin)
                 let blockwwww = m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '') + '@s.whatsapp.net'
-                await XeonBotInc.groupParticipantsUpdate(m.chat, [blockwwww], 'add').then((res) => replygcxeon(json(res))).catch((err) => replygcxeon(json(err)))
+                await FreBotInc.groupParticipantsUpdate(m.chat, [blockwwww], 'add').then((res) => replygcfre(json(res))).catch((err) => replygcfre(json(err)))
                 break
             case 'promote':
-                if (!m.isGroup) return replygcxeon(mess.group)
-                if (!isAdmins && !isGroupOwner && !isCreator) return replygcxeon(mess.admin)
-                if (!isBotAdmins) return replygcxeon(mess.botAdmin)
+                if (!m.isGroup) return replygcfre(mess.group)
+                if (!isAdmins && !isGroupOwner && !isCreator) return replygcfre(mess.admin)
+                if (!isBotAdmins) return replygcfre(mess.botAdmin)
                 let blockwwwww = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g, '') + '@s.whatsapp.net'
                 await XeonBotInc.groupParticipantsUpdate(m.chat, [blockwwwww], 'promote').then((res) => replygcxeon(json(res))).catch((err) => replygcxeon(json(err)))
                 break
