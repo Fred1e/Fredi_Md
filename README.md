@@ -61,8 +61,8 @@ if scan qr is not working please try using pairing code i am currently working o
 ---
 1. ***Join us `WhatsApp`channel [`FOLLOW CHANNEL`](https://whatsapp.com/channel/0029VAIHCQV84OM8LP59FO3F)***
 2. ***Fork repo here [`TAP TO FORK`](https://github.com/Fred1e/FREDI_MD/fork)***
-3.  ***Get `SESSION ID` by [`SCANING QR`](https://fredi-md-644c35ba97c9.herokuapp.com/qr)***
-4. ***And [`PARING CODE`](https://fredi-md-644c35ba97c9.herokuapp.com/)***
+3.  ***Get `SESSION ID` by [`SCANING QR`](https://fredietech.onrender.com)***
+4. ***And [`PARING CODE`](https://fredietech.onrender.com)***
 5.  ***Deploy tutorial [`YoutubeVideo`](https://youtu.be/izoxfW3anrU).***
 6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/izoxfW3anrU)***
 7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=hhttps://github.com/Fred1e/FREDI_MD-plugin/tree/main)***
