@@ -66,10 +66,10 @@ if scan qr is not working please try using pairing code i am currently working o
 5.  ***Deploy tutorial [`YoutubeVideo`](https://youtu.be/izoxfW3anrU).***
 6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/izoxfW3anrU)***
 7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=hhttps://github.com/Fred1e/FREDI_MD-plugin/tree/main)***
-8.  ***Deploy on [`Replit`](https://replit.com/github/Fred1e/Fredi_Md)***
+8.  ***Deploy on [`Replit`](https://replit.com/github/Fred1e/FREDI_MD-plugin)***
 9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Fred1e/Fredi_Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255620814108env[MONGODB_URI]&&env[OWNER_NAME]=fredie&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Fredi+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FREDi&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Arusha&name=Fredi_md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/63d832ae9db153376e575.jpg)***
-11.  ***Deploy on [`Render`](https://dashboard.render.com/new?template=https://github.com/Fred1e/Fredi_md/tree/main)***
+10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Fred1e/FREDI_MD-plugin&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255620814108env[MONGODB_URI]&&env[OWNER_NAME]=fredie&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Fredi+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FREDi&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Arusha&name=Fredi_md&env[KOYEB_NAME]=fredi_md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/63d832ae9db153376e575.jpg)***
+11.  ***Deploy on [`Render`](https://dashboard.render.com/new?template=https://github.com/Fred1e/FREDI_MD-plugin/tree/main)***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##
 ---
