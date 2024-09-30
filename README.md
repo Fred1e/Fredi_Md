@@ -12,7 +12,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/63d832ae9db153376e575.jpg" alt="01" border="0" /></a>     
 
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=FREDI_MD+V3.0.0+RESPONDS+FAST" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=FREDI_MD+V+RESPONDS+FAST" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-FREDIE TECH-green.svg?style=for-the-badge&logo=github">
@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://github.com/Fred1e/Fredi_Md-plugin/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_MD-plugin/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Fred1e/FREDI_MD/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://youtu.be/izoxfW3anrU"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 
@@ -65,11 +65,11 @@ if scan qr is not working please try using pairing code i am currently working o
 4. ***And [`PARING CODE`](https://fredietech.onrender.com)***
 5.  ***Deploy tutorial [`YoutubeVideo`](https://youtu.be/izoxfW3anrU).***
 6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/izoxfW3anrU)***
-7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=hhttps://github.com/Fred1e/FREDI_MD-plugin/tree/main)***
-8.  ***Deploy on [`Replit`](https://replit.com/github/Fred1e/FREDI_MD-plugin)***
+7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=hhttps://github.com/Fred1e/FREDI_MD/tree/main)***
+8.  ***Deploy on [`Replit`](https://replit.com/github/Fred1e/FREDI_MD)***
 9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Fred1e/FREDI_MD-plugin&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255620814108env[MONGODB_URI]&&env[OWNER_NAME]=fredie&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Fredi+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FREDi&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Arusha&name=Fredi_md&env[KOYEB_NAME]=fredi_md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/63d832ae9db153376e575.jpg)***
-11.  ***Deploy on [`Render`](https://dashboard.render.com/new?template=https://github.com/Fred1e/FREDI_MD-plugin/tree/main)***
+10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Fred1e/FREDI_MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=255620814108env[MONGODB_URI]&&env[OWNER_NAME]=fredie&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Fredi+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=FREDi&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Arusha&name=Fredi_md&env[KOYEB_NAME]=fredi_md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/63d832ae9db153376e575.jpg)***
+11.  ***Deploy on [`Render`](https://dashboard.render.com/new?template=https://github.com/Fred1e/FREDI_MD/tree/main)***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##
 ---
