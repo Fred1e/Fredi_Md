@@ -53,7 +53,7 @@
 
 Get session id by (PAIRING CODE2)
     <br>
-<a href='https://-scanner-144c4a6d3a72.herokuapp.com/' target="_blank"><img alt='Pair Code Your Here' src='https://img.shields.io/badge/Pair Your Code Here-black?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
+<a href='https://-scanner-144c4a6d3a72.herokuapp.com/' target="_blank"><img alt='Pair Code Your Here' src='https://img.shields.io/badge/Pair Your Code Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
 </details>
 
     
@@ -78,7 +78,7 @@ Get session id by (PAIRING CODE2)
 
 2. Now Deploy
     <br>
-<a href='https://bot-hosting.net/?aff=1086839354611212288' target="_blank"><img alt='Tap Here For Deployment' src='https://img.shields.io/badge/Deploy To Pannel Here-black?style=for-the-badge&logo=discord&logoColor=darkblue'/></a>
+<a href='https://bot-hosting.net/?aff=1086839354611212288' target="_blank"><img alt='Tap Here For Deployment' src='https://img.shields.io/badge/Tap Deploy On Pannel Here-black?style=for-the-badge&logo=discord&logoColor=darkblue'/></a>
 </details>
 
 
@@ -99,7 +99,7 @@ Get session id by (PAIRING CODE2)
 
 2. Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Fredi_Md' target="_blank"><img alt='Deploy To Heroku Here' src='https://img.shields.io/badge/Deploy To Heroku Here-black?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Fredi_Md' target="_blank"><img alt='Tap Deploy On Heroku Here' src='https://img.shields.io/badge/Deploy To Heroku Here-black?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
 </details>
 
 
