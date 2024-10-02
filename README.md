@@ -2,11 +2,19 @@
 
 
 1. Fork the repo
+
+
+
     <br>
 <a href='https://github.com/Fred1e/Fredi_Md/fork' target="_blank"><img alt='fork bot repo here' src='https://img.shields.io/badge/fork repo-black?style=for-the-badge&logo=git&logoColor=blue'/></a>
 
 
-### COMMUNICATE WITH OWNERS 
+
+
+#### COMMUNICATE WITH OWNERS 
+
+
+
 
 </details>
 
@@ -27,7 +35,13 @@
 </details>
 
 
-3.Generate Session Id
+
+##
+
+#### GENERATE SESSION_ID HERE
+
+
+
 </details>
 
 <details>
@@ -47,7 +61,12 @@ Get session id by (PAIRING CODE2)
 
 
 
+##
+
 #### DEPLOY TO PANEL 
+
+
+
 </details>
 
 <details>
@@ -63,7 +82,11 @@ Get session id by (PAIRING CODE2)
 </details>
 
 
+##
+
 #### DEPLOY TO HEROKU 
+
+
 
 </details>
 
@@ -80,7 +103,12 @@ Get session id by (PAIRING CODE2)
 </details>
 
 
+##
+
 #### DEPLOY TO RENDER
+
+
+
 
 </details>
 
