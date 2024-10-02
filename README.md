@@ -124,5 +124,37 @@ Get session id by (PAIRING CODE2)
 <a href='https://dashboard.render.com' target="_blank"><img alt='Deploy On Render Here' src='https://img.shields.io/badge/Deploy On Render Here-black?style=for-the-badge&logo=render&logoColor=blue'/></a>
 </details>
 
+
+##
+
+
+#### DEPLOY TO REPLIT
+
+
+</details>
+
+<details>
+<summary>Tap For Replit Set💯</summary>
+
+1. Tap To Create New Account If You Don't Have.
+   <a href='https://replit.com' target="_blank"><img alt='replit' src='https://img.shields.io/badge/Create Your Account Here-black?style=for-the-badge&logo=replit&logoColor=orange'/></a>
+   
+  
+3. Tap To Deploy If You Have Account. 
+  <a href='https://replit.com/github/Fred1e/Fredi_Md' target="_blank"><img alt='replit' src='https://img.shields.io/badge/DEPLOY ON REPLIT-black?style=for-the-badge&logo=replit&logoColor=orange'/></a>
+
+### HOW TO DEPLOY ON REPLIT
+
+      1.Open account on replit [[Replit Create Account](https://replit.com) 
+      2.Open bot repo then fork. 
+      3.Tap deploy button to "deploy on replit". 
+      4.Tap import from github 
+      5.After importing tap 👈 button down 👇 of replit dashboard. 
+      6.Choose config.cjs file then put your session 🆔 and others you need. 
+      7.Tap button written run to run your bot then go test it's work. 
+    THANK YOU FOR CHOOSING FREDI MD 
+  </details>
+   
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
