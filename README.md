@@ -145,7 +145,7 @@ Get session id by (PAIRING CODE2)
 
 ### HOW TO DEPLOY ON REPLIT
 
-      1.Open account on replit [[Replit Create Account](https://replit.com) 
+      1.Open account on replit 
       2.Open bot repo then fork. 
       3.Tap deploy button to "deploy on replit". 
       4.Tap import from github 
