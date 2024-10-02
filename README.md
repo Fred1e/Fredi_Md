@@ -47,13 +47,11 @@
 <details>
 <summary>Get Session Id Here💯</summary>
  Get session id by (SCANNING QR1)
-    <br>
-<a href='https://replit.com/@devibraahadams/Baraka-pairing-code1' target="_blank"><img alt='Qr Scan Cods' src='https://img.shields.io/badge/Qr Scan Code-black?style=for-the-badge&logo=git&logoColor=green'/></a>
+    <a href='https://replit.com/@devibraahadams/Baraka-pairing-code1' target="_blank"><img alt='Qr Scan Cods' src='https://img.shields.io/badge/Qr Scan Code-black?style=for-the-badge&logo=git&logoColor=green'/></a>
 
 
-Get session id by (PAIRING CODE2)
-    <br>
-<a href='https://-scanner-144c4a6d3a72.herokuapp.com/' target="_blank"><img alt='Pair Code Your Here' src='https://img.shields.io/badge/Pair Your Code Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
+Get session id by (PAIRING CODE2) 
+    <a href='https://-scanner-144c4a6d3a72.herokuapp.com/' target="_blank"><img alt='Pair Code Your Here' src='https://img.shields.io/badge/Pair Your Code Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
 </details>
 
     
@@ -72,13 +70,11 @@ Get session id by (PAIRING CODE2)
 <details>
 <summary>Tap For Info💯</summary>
 1. If You don't have a account on panel Create a account.
-    <br>
-<a href='https://bot-hosting.net/?aff=1086839354611212288' target="_blank"><img alt='Create Your Account Now' src='https://img.shields.io/badge/Create Your Account Now-black?style=for-the-badge&logo=discord&logoColor=darkblue'/></a>
+    <a href='https://bot-hosting.net/?aff=1086839354611212288' target="_blank"><img alt='Create Your Account Now' src='https://img.shields.io/badge/Create Your Account Now-black?style=for-the-badge&logo=discord&logoColor=darkblue'/></a>
 
 
 2. Now Deploy
-    <br>
-<a href='https://bot-hosting.net/?aff=1086839354611212288' target="_blank"><img alt='Tap Here For Deployment' src='https://img.shields.io/badge/Tap Deploy On Pannel Here-black?style=for-the-badge&logo=discord&logoColor=darkblue'/></a>
+   <a href='https://bot-hosting.net/?aff=1086839354611212288' target="_blank"><img alt='Tap Here For Deployment' src='https://img.shields.io/badge/Tap Deploy On Pannel Here-black?style=for-the-badge&logo=discord&logoColor=darkblue'/></a>
 </details>
 
 
@@ -93,13 +89,11 @@ Get session id by (PAIRING CODE2)
 <details>
 <summary>For Set Up Here💯</summary>
 1. If You don't have a account in Heroku. Create a account.
-    <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Create Your Account Here' src='https://img.shields.io/badge/Create Your Account Here-black?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
+    <a href='https://signup.heroku.com/' target="_blank"><img alt='Create Your Account Here' src='https://img.shields.io/badge/Create Your Account Here-black?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
 
 
 2. Now Deploy
-    <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Fredi_Md' target="_blank"><img alt='Tap Deploy On Heroku Here' src='https://img.shields.io/badge/Deploy To Heroku Here-black?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
+   <a href='https://dashboard.heroku.com/new?template=https://github.com/Fred1e/Fredi_Md' target="_blank"><img alt='Tap Deploy On Heroku Here' src='https://img.shields.io/badge/Deploy To Heroku Here-black?style=for-the-badge&logo=heroku&logoColor=purple'/></a>
 </details>
 
 
@@ -116,12 +110,10 @@ Get session id by (PAIRING CODE2)
 <summary>For Set Up Tap Here💯</summary>
 
 1. If You don't have a account in Render. Create a account.
-    <br>
-<a href='https://dashboard.render.com/register' target="_blank"><img alt='Create Your Account Now' src='https://img.shields.io/badge/Create Your Account Now-black?style=for-the-badge&logo=render&logoColor=blue'/></a>
+   <a href='https://dashboard.render.com/register' target="_blank"><img alt='Create Your Account Now' src='https://img.shields.io/badge/Create Your Account Now-black?style=for-the-badge&logo=render&logoColor=blue'/></a>
 
 2. Now Deploy
-    <br>
-<a href='https://dashboard.render.com' target="_blank"><img alt='Deploy On Render Here' src='https://img.shields.io/badge/Deploy On Render Here-black?style=for-the-badge&logo=render&logoColor=blue'/></a>
+    <a href='https://dashboard.render.com' target="_blank"><img alt='Deploy On Render Here' src='https://img.shields.io/badge/Deploy On Render Here-black?style=for-the-badge&logo=render&logoColor=blue'/></a>
 </details>
 
 
@@ -136,11 +128,11 @@ Get session id by (PAIRING CODE2)
 <details>
 <summary>Tap For Replit Set💯</summary>
 
-1. Tap To Create New Account If You Don't Have.
+1. If You Don't Have Account In Replit Create Now.
    <a href='https://replit.com' target="_blank"><img alt='replit' src='https://img.shields.io/badge/Create Your Account Here-black?style=for-the-badge&logo=replit&logoColor=orange'/></a>
    
   
-3. Tap To Deploy If You Have Account. 
+3. Now Deploy. 
   <a href='https://replit.com/github/Fred1e/Fredi_Md' target="_blank"><img alt='replit' src='https://img.shields.io/badge/DEPLOY ON REPLIT-black?style=for-the-badge&logo=replit&logoColor=orange'/></a>
 
 ### HOW TO DEPLOY ON REPLIT
