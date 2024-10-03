@@ -59,7 +59,7 @@
 
 
 Get session id by (PAIRING CODE2) 
-    <a href='https://-scanner-144c4a6d3a72.herokuapp.com/' target="_blank"><img alt='Pair Code Your Here' src='https://img.shields.io/badge/Pair Your Code Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
+    <a href='https://bega-scanner-144c4a6d3a72.herokuapp.com/' target="_blank"><img alt='Pair Code Your Here' src='https://img.shields.io/badge/Pair Your Code Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
 </details>
 
     
