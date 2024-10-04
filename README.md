@@ -19,6 +19,10 @@
 
 
 
+
+##
+
+
 #### COMMUNICATE WITH OWNERS 
 
 
@@ -44,7 +48,7 @@
 
 
 
-####
+##
 
 #### GENERATE SESSION_ID HERE
 
@@ -65,7 +69,7 @@ Get session id by (PAIRING CODE2)
 
 
 
-####
+##
 
 #### DEPLOY TO PANEL 
 
@@ -84,7 +88,7 @@ Get session id by (PAIRING CODE2)
 </details>
 
 
-####
+##
 
 #### DEPLOY TO HEROKU 
 
@@ -106,7 +110,7 @@ Get session id by (PAIRING CODE2)
 </details>
 
 
-####
+##
 
 #### DEPLOY TO RENDER
 
@@ -126,7 +130,7 @@ Get session id by (PAIRING CODE2)
 </details>
 
 
-####
+##
 
 
 #### DEPLOY TO REPLIT
