@@ -59,7 +59,7 @@
 <details>
 <summary>Get Session Id Here💯</summary>
  Get session id by (SCANNING QR1)
-    <a href='https://replit.com/@devibraahadams/Baraka-pairing-code1' target="_blank"><img alt='Qr Scan Cods' src='https://img.shields.io/badge/Qr Scan Code-black?style=for-the-badge&logo=git&logoColor=green'/></a>
+    <a href='https://github.com/Fred1e' target="_blank"><img alt='Follow To Scan Qr Cods' src='https://img.shields.io/badge/Follow To Scan Qr Code-black?style=for-the-badge&logo=git&logoColor=green'/></a>
 
 
 Get session id by (PAIRING CODE2) 
