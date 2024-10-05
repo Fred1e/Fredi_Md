@@ -176,11 +176,11 @@ Get session id by (PAIRING CODE2)
 <details>
 <summary>Tap To Check Lucky Md💯</summary>
  Lucky Md Info
-    <a href='https://github.com/Fred1e/LUCKY_MD' target="_blank"><img alt='Open Lucky Md Repo Here😁' src='https://img.shields.io/badge/Open Lucky Md Repo Here😁-black?style=for-the-badge&logo=git&logoColor=green'/></a>
+    <a href='https://github.com/Fred1e/LUCKY_MD' target="_blank"><img alt='Open Lucky Md Repo Here😁' src='https://img.shields.io/badge/Open Lucky Md Repo Here😁-black?style=for-the-badge&logo=github&logoColor=green'/></a>
 
 
 All Information About Me 
-    <a href='https://fredi-bio.vercel.app/' target="_blank"><img alt='Owner Info Tap Here😎' src='https://img.shields.io/badge/Owner Info Tap Here😎-black?style=for-the-badge&logo=vercel&logoColor=green'/></a>
+    <a href='https://fredi-bio.vercel.app/' target="_blank"><img alt='Owner Info Tap Here😎' src='https://img.shields.io/badge/Owner Info Tap Here😎-black?style=for-the-badge&logo=liverpool&logoColor=red'/></a>
 </details>
    
 
