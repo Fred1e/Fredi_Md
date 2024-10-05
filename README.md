@@ -14,7 +14,7 @@
 
 1. Fork the repo
 
-<a href='https://github.com/Fred1e/Fredi_Md/fork' target="_blank"><img alt='fork bot repo here' src='https://img.shields.io/badge/fork repo-black?style=for-the-badge&logo=git&logoColor=blue'/></a>
+<a href='https://github.com/Fred1e/Fredi_Md/fork' target="_blank"><img alt='fork bot repo here' src='https://img.shields.io/badge/fork repo-black?style=for-the-badge&logo=ferrary&logoColor=blue'/></a>
 
 
 
