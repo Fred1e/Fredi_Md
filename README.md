@@ -59,11 +59,11 @@
 <details>
 <summary>Get Session Id Here💯</summary>
  Get session id by (SCANNING QR1)
-    <a href='https://replit.com/@devibraahadams/Baraka-pairing-code1' target="_blank"><img alt='Qr Scan Cods' src='https://img.shields.io/badge/Qr Scan Code-black?style=for-the-badge&logo=git&logoColor=green'/></a>
+    <a href='https://replit.com/@devibraahadams/Fredi-pairing-code1' target="_blank"><img alt='Qr Scan Cods' src='https://img.shields.io/badge/Qr Scan Code-black?style=for-the-badge&logo=git&logoColor=green'/></a>
 
 
 Get session id by (PAIRING CODE2) 
-    <a href='https://bega-scanner-144c4a6d3a72.herokuapp.com/' target="_blank"><img alt='Pair Code Your Here' src='https://img.shields.io/badge/Pair Your Code Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
+    <a href='https://fredi-scanner-baa15ec0127c.herokuapp.com/' target="_blank"><img alt='Pair Code Your Here' src='https://img.shields.io/badge/Pair Your Code Here-black?style=for-the-badge&logo=git&logoColor=green'/></a>
 </details>
 
 
