@@ -1,24 +1,24 @@
 {
-  "name": "FREDI MD",
-  "description": "Best Whatsapp bot made by FrediEzra",
+  "name": "whatsapp-bot (Fredi-MD)",
+  "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "",
-  "stack":"heroku-24",
-  "env":{
+  "repository": "https://github.com/Fred1e/Fredi_Md",
+  "stack": "container",
+  "env": { 
       "SESSION_ID": {
-      "description": "Paste here session id that you have scanned",
+      "description": "your session id",
       "required": true,
       "value": ""
     },
     "MODE": {
-      "description": "Enter true for public. false for private",
+      "description": "mode public or self",
       "required": true,
       "value": "public"
     },
     "AUTO_STATUS_SEEN": {
-      "description": "Enter true for autoview status. false for no",
+      "description": "make it true if you want bot to view status",
       "required": false,
       "value": ""
     },
@@ -52,8 +52,18 @@
       "required": false,
       "value": ""
     },
+    "AUTO_STATUS_REPLY": {
+      "description": "make it true if you want to send auto message after status seen",
+      "required": false,
+      "value": ""
+    },
+    "STATUS_READ_MSG": {
+      "description": "enter your status reply message",
+      "required": false,
+      "value": ""
+    },
     "PREFIX": {
-      "description": "Enter your bot prefix eg .,+@#$¶∆×π",
+      "description": "Your Bot Prefix default (.)",
       "required": false,
       "value": ""
     }
@@ -72,4 +82,4 @@
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
   ]
-}
+    }
